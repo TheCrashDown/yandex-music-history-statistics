@@ -1,1405 +1,1517 @@
-299   Три дня дождя, Роки - Марафоны
-160   Narkomfin - Фьюче симпл
-135   Три дня дождя - Красота
-113   plagueinside - Обсудим за столом
+301   Три дня дождя, Роки - Марафоны
+189   Narkomfin - Фьюче симпл
+142   Три дня дождя - Красота
+121   plagueinside - Обсудим за столом
+120   Три дня дождя - Перезаряжай
 113   Port Avenue - Конфетти
-111   Три дня дождя - Перезаряжай
+106   Markul - Cuba Libre
 104   QWAZAR - Одиночество
-101   Markul - Cuba Libre
-84    Markul - Худший друг
-82    Port Avenue - В глаза
-79    Три дня дождя - В кого ты влюблена
-78    Port Avenue - По стилям
-76    Три дня дождя - Отражения
+87    Markul - Худший друг
+85    pyrokinesis - Да что романтичного в птичках?
+83    Port Avenue - В глаза
+81    Три дня дождя - В кого ты влюблена
+79    Port Avenue - По стилям
+77    Три дня дождя - Отражения
+75    plagueinside - Что ни день, то новость
 73    Port Avenue - Цветы
 73    fem.love - 1000-7
-73    pyrokinesis - Да что романтичного в птичках?
-69    plagueinside - Что ни день, то новость
-65    Port Avenue - Мечта
+66    Port Avenue - Мечта
 65    saypink! - В моей голове
+64    bbno$ - i remember
 63    Asper X - Ветер перемен
-60    katanacss, aikko - Любовь на нож
-59    FIZICA - Экстрасекс
+62    katanacss, aikko - Любовь на нож
+60    FIZICA - Экстрасекс
 58    Джизус - WARLORD
 57    playingtheangel - Фудзи. Извержение
 54    katanacss - Русский сериал
-53    VULPES VULT! - Последнее письмо к Ленор
-52    bbno$ - i remember
-51    INSPACE - Мерзость
-50    ЖЩ - Смелость
+54    VULPES VULT! - Последнее письмо к Ленор
+52    INSPACE - Мерзость
+51    ЖЩ - Смелость
+49    DEEP-EX-SENSE - Neurotoxin
 49    INSPACE - С рождеством
 48    katanacss - ломки
-47    DEEP-EX-SENSE - Neurotoxin
+48    NLO - Звездолёт
+46    VULPES VULT!, Port Avenue - Дивный новый мир
+45    МОЛОДОСТЬ ВНУТРИ - Ла-Ла Лэнд
 45    Роки - Аэропорты
+44    Три дня дождя, INSPACE - Кроме твоего лица
 44    Роки - Не солнышко светит
-44    МОЛОДОСТЬ ВНУТРИ - Ла-Ла Лэнд
-43    Три дня дождя, INSPACE - Кроме твоего лица
-40    VULPES VULT!, Port Avenue - Дивный новый мир
-39    Радиопомехи - Дурак
+43    Три дня дождя - Вода
+41    Радиопомехи - Дурак
 39    NЮ - Веснушки
+38    FIZICA - Хит
+38    IVOXYGEN - GERONIMO
+38    этажность - Мёртвого крика
 38    Asper X - Bad Trip
-38    Три дня дождя - Вода
+38    bbno$, Rich Brian - edamame
 38    Коrsика - Рубежи
-37    FIZICA - Хит
-37    IVOXYGEN - GERONIMO
-36    Одда - Бардак
-36    bbno$, Rich Brian - edamame
+37    Одда - Бардак
+36    FIZICA - BDSM
 36    FIZICA - Больше, чем BDSM
 35    INSPACE - Не хочу
-35    FIZICA - BDSM
-35    этажность - Мёртвого крика
 34    Джизус - РАССВЕТ
 33    Гости Гаррисона - Васильки
 32    Asper X - Картонная
+32    IVOXYGEN - Stoic
+32    plagueinside - Донор
 32    VULPES VULT! - Айседора
-30    IVOXYGEN - Stoic
-29    Anacondaz - Твоему новому парню
-29    Markul - Blues
-29    DEEP-EX-SENSE - Конан Дойл
+30    Markul - Леброн
+30    Markul - Blues
+30    DEEP-EX-SENSE - Конан Дойл
+30    Anacondaz - Твоему новому парню
+30    VULPES VULT! - Девятихвостый
+29    VULPES VULT! - Зависимость
+29    pyrokinesis - Питер, чай, не Франция
 29    МОЛОДОСТЬ ВНУТРИ - Серотонин
-28    ONEDAY - А, подожди
+29    Anacondaz, Заточка - Метафизика
+28    Dj Jaguar Remix - Montero Call Me By Your Name Remix
 28    katanacss, INSPACE - Ты проблема
-28    VULPES VULT! - Зависимость
-28    Anacondaz, Заточка - Метафизика
-28    Markul - Леброн
-28    pyrokinesis - Питер, чай, не Франция
-28    VULPES VULT! - Девятихвостый
-27    VULPES VULT! - Револьвер
+28    Palaye Royale - Nightmares In Paradise
+28    ONEDAY - А, подожди
+28    Ваганыч - Попс
 27    Neverlove, Marry Me, Bellamy - Инструктор из НАТО
-27    plagueinside - Донор
-27    Ваганыч - Попс
-26    Три дня дождя - Когда ты откроешь глаза
-25    Бездарность - Вишнёвый сок
-25    dontxlook - Моим ранам
-25    Hi-Fi - Седьмой лепесток
+27    Три дня дождя - Когда ты откроешь глаза
+27    Hi-Fi - Седьмой лепесток
+27    VULPES VULT! - Револьвер
+27    aikko - Так неинтересно
+26    Три дня дождя - Всё из-за тебя
 25    katanacss, INSPACE - Сухие губы
-24    Plamenev, FIZICA - Уважай нашу власть!
+25    Znaki - Фантастика
+25    dontxlook - Моим ранам
+25    Бездарность - Вишнёвый сок
 24    FIZICA - Готэм
+24    Markul - Карусель
+24    Ваганыч - Пыльник
 24    Гости Гаррисона - Делай, что хочется
-24    aikko - Так неинтересно
+24    Plamenev, FIZICA - Уважай нашу власть!
 24    pyrokinesis - Прекрасное далёко
-24    Три дня дождя - Всё из-за тебя
-23    Asper X - Смерть луны
-23    Ваганыч - Пыльник
-23    хмыров - Тремоло
-23    Markul - Карусель
-23    Palaye Royale - Nightmares In Paradise
 23    fem.love - Фотографирую закат
-22    Asper X - От автора
+23    Виталий Чирва - Трибунал
+23    Lemonade Mauser, KRESTALL / Courier - Л.П.Д
+23    Asper X - Смерть луны
+23    хмыров - Тремоло
+22    ЖЩ - Врать
 22    Одда - Молоды
-22    KRESTALL / Courier, Lemonade Mauser - Л.П.Д
-22    Znaki - Фантастика
-21    DEEP-EX-SENSE - City 17
-21    NЮ - Я даю тебе шанс
-21    20TOKENS, saypink! - ДУМАЛ ЧТО МНЕ ВСЁ РАВНО
-21    МОЛОДОСТЬ ВНУТРИ - Все виды красок
+22    NЮ - Я даю тебе шанс
+22    Markul - 25
+22    Asper X - От автора
+21    МОЛОДОСТЬ ВНУТРИ, katanacss - В последний раз
+21    МУККА - Delete
 21    МИНУС18 - Привычка курить
+21    Роки, zygomaticus - Слева, справа
+21    МОЛОДОСТЬ ВНУТРИ - Все виды красок
+21    Norma Tale, Asper X - Абсент
 21    FIZICA - BDSM навсегда
+21    20TOKENS, saypink! - ДУМАЛ ЧТО МНЕ ВСЁ РАВНО
+21    DEEP-EX-SENSE - City 17
+21    МУККА, Три дня дождя - Не киряй
 21    Demi the Daredevil - Paranoia on Main Street
-20    ЖЩ - Врать
-20    Lil Nas X - MONTERO (Call Me By Your Name)
 20    MORGENSHTERN - 12
-20    МОЛОДОСТЬ ВНУТРИ, katanacss - В последний раз
+20    Markul - Zima Blue
+20    Три дня дождя - Где ты
+20    Три дня дождя, Лали - Космос
+20    Grey - HELL REPLIED
 19    aikko, бэмби - Так неинтересно
-19    Роки, zygomaticus - Слева, справа
-19    Коrsика - Умереть молодым
-19    Deuce - The One
+19    Вишневский - Гадалка
+19    letlive. - A Weak Ago
 19    saypink! - Не лечи
-19    20TOKENS - ЧАСИКИ
 19    FIZICA, TM7KING - Античувства
-18    Norma Tale, Asper X - Абсент
+19    Три дня дождя - Отпускай
+19    Коrsика - Умереть молодым
+19    Hahapoison - I Love/Hate Myself
+19    20TOKENS - ЧАСИКИ
+19    Deuce - The One
 18    Asper X - Сумасшедшим вход бесплатно
+18    Call Me Karizma - Vacuum Boy
 18    ЖЩ - Тоска
-18    Вишневский - Гадалка
-18    Hahapoison - I Love/Hate Myself
-17    Коrsика - Белое небо
+17    Green Day - Peacemaker
+17    Золотое Перо - Лонг айленд
+17    Ногу свело! - Нам не нужна война!
 17    Радиопомехи - Окурки
-17    Markul - 25
-17    Call Me Karizma - Vacuum Boy
-17    Markul - Zima Blue
-17    Три дня дождя, Лали - Космос
+17    Три дня дождя - Демоны
+17    Три дня дождя - Про любовь
+17    Коrsика - Белое небо
 17    Lodoss - Костяника
-16    plagueinside - любовный приговор
-16    Золотое Перо - Лонг айленд
-16    Green Day - Peacemaker
-16    Три дня дождя - Про любовь
-16    Ногу свело! - Нам не нужна война!
+16    Markul, ANIKV - Rick James
 16    Три дня дождя - Стекло
-15    YOHIO - defeating a devil a day
-15    Операция Пластилин - Как Blink-182
-15    FIZICA - Я. Ты. Эксперимент
-15    Markul, ANIKV - Rick James
-15    МУККА, Три дня дождя - Не киряй
+16    Anacondaz, Noize MC - Пусть они умрут
+16    этажность - Погас и остыл
+16    katanacss, INSPACE - Мяу
+16    plagueinside - любовный приговор
 15    Norma Tale, Sara - Нас не спасти
-15    INSPACE - Триста водки
-15    пачкасигарет - Из Пластика
 15    Гости Гаррисона - Огонёк
-15    ЖЩ - Боль всего мира
+15    And One - Seven
+15    FIZICA - Я. Ты. Эксперимент
 15    Джизус - ТЫ НИЧЕГО НЕ ПОНЯЛА
-14    INSPACE, katanacss - Мяу
-14    IVOXYGEN - Highway Love
+15    ЛСП - Ползать
+15    пачкасигарет - Из Пластика
+15    ЖЩ - Боль всего мира
+15    YOHIO - defeating a devil a day
+15    СерьГа - Страна чудес
+15    INSPACE - Триста водки
+15    IVOXYGEN - Highway Love
+15    Port Avenue - Либидо
+15    Операция Пластилин - Как Blink-182
+14    twenty one pilots - Stressed Out
+14    Poor Mans Poison - Providence
 14    Amy Macdonald - This Is The Life
-14    ШАРЫ - Сегодня Воскресенье
+14    Burn the Ballroom - Kiss Me You Animal
+14    Anacondaz, Влади - Бессонница
+14    IVOXYGEN - Young Kid
 14    Shaka Ponk - Stop the Bot
+14    МУККА - Девочка с каре
+14    ШАРЫ - Сегодня Воскресенье
 14    FIZICA - Весь мир у наших ног
-14    Port Avenue - Либидо
-14    Anacondaz, Noize MC - Пусть они умрут
-13    Oxxxymiron, Schokk - То густо, то пусто
-13    20TOKENS - РОЗОВЫЕ СНЫ
-13    Anacondaz, Влади - Бессонница
-13    Poor Mans Poison - Providence
-13    этажность - Погас и остыл
-13    twenty one pilots - Stressed Out
-13    Markul - Серпантин
-13    saypink! - Коленки
+14    Три дня дождя, МУККА - Не выводи меня
 13    ЛСП - Монетка
-13    ЛСП - Ползать
-12    Ваганыч - Прокрастинация
-12    МОЛОДОСТЬ ВНУТРИ, DenDerty - Тревога
-12    МОЛОДОСТЬ ВНУТРИ - Ультра Хиппи
-12    plagueinside - Между делом
-12    playingtheangel - ФУДЗИ
-12    ЖЩ - Ты должен сдохнуть первым
-12    СерьГа - Страна чудес
-12    Три дня дождя - Демоны
-12    Plastika - Дождь
+13    Plastika - Дождь
+13    ЖЩ - Ты должен сдохнуть первым
+13    Три дня дождя, Zivert - Выдыхай
+13    Три дня дождя - Театр теней
+13    Markul - Серпантин
+13    20TOKENS - РОЗОВЫЕ СНЫ
+13    Oxxxymiron, Schokk - То густо, то пусто
+13    Resonance, Ваганыч - Монодиалог 2.0
+13    saypink! - Коленки
+12    Три дня дождя - Вина
 12    Muse - Won’t Stand Down
-12    Три дня дождя - Театр теней
-12    Scarlet Pleasure - What a Life
-12    МУККА - Девочка с каре
+12    Ваганыч - Прокрастинация
+12    Король и Шут - Кукла колдуна
 12    INSPACE, katanacss - Копия чувств
+12    МОЛОДОСТЬ ВНУТРИ, DenDerty - Тревога
 12    Три дня дождя - Тебя любить
-12    Resonance, Ваганыч - Монодиалог 2.0
+12    Call Me Karizma - Fire Escape
+12    Michelle Gurevich - End of an Era
+12    plagueinside - Между делом
 12    Del Shannon - So Long Baby
-11    Dabro - Думать о тебе
-11    Port Avenue - В Саратов отдыхать
-11    Джизус - ТЫ СТАЛА ПРОСТО СУПЕР
-11    Call Me Karizma - Fire Escape
-11    Fun Mode, FIZICA - Время Сумерек
+12    ЖЩ - Король
+12    Dabro - Думать о тебе
+12    Три дня дождя, Роки - Девочка эконом вариант
+12    МОЛОДОСТЬ ВНУТРИ - Ультра Хиппи
+12    Scarlet Pleasure - What a Life
+12    Cherry Animals - We Are the Killers
+12    playingtheangel - ФУДЗИ
 11    RØNIN - ALL GIRLS ARE THE SAME
+11    ЛСП - Безумие
+11    Abney Park - The Story That Never Starts
+11    Fun Mode, FIZICA - Время Сумерек
+11    Джизус - ТЫ СТАЛА ПРОСТО СУПЕР
+11    Call Me Karizma - Part of me
+11    aikko, INSPACE, katanacss - Салют
+11    Family Force 5 - Never Let Me Go
+11    Viza - Eros
+11    Port Avenue - В Саратов отдыхать
+11    Е2 Знакомы - С меня хватит
+11    Billy Talent - Hanging Out with All the Wrong People
 11    Asper X - Дрянь
-11    МУККА - Delete
-11    ЖЩ - Король
-11    IVOXYGEN - Young Kid
-11    Король и Шут - Кукла колдуна
-10    katanacss, Роки - Три-четыре
-10    Е2 Знакомы - С меня хватит
-10    Call Me Karizma - Part of me
-10    Lil Nas X, Jack Harlow - INDUSTRY BABY
-10    Три дня дождя, МУККА - Не выводи меня
-10    Три дня дождя - Вода
-10    Billy Talent - Hanging Out with All the Wrong People
-10    Znaki - Стрелки
-10    FIZICA, KseroN - Нет вещей от Gucci
-10    Family Force 5 - Never Let Me Go
-10    MishRooms - Пьяные драконы
-10    Michelle Gurevich - End of an Era
-10    INSPACE, katanacss - Лоулайф
+11    Lil Nas X, Jack Harlow - INDUSTRY BABY
+11    Znaki - Стрелки
 10    Роки - Кошка
+10    FIZICA, KseroN - Нет вещей от Gucci
 10    Твин Пикс - Бесконечная река
 10    ЖЩ - Дизмораль
-10    ЛСП - Безумие
-10    Три дня дождя - Где ты
+10    katanacss, Роки - Три-четыре
+10    aikko, Роки - Выпить
+10    Три дня дождя - Вода
+10    INSPACE, katanacss - Лоулайф
+10    Три дня дождя - Привычка
+10    MishRooms - Пьяные драконы
 10    Коrsика - Харли Квинн
-9     Ваганыч - Курьер мафака
+10    walkie, Reader - Войсы на x2
+10    Motionless In White - Somebody Told Me
 9     Anacondaz - CDMM
-9     Oldelaf - Le monde est beau
-9     Port Avenue, groyne 203 - Не жаль
-9     fem.love - Я люблю тебя
-9     Золотое Перо, BOOKER - Солярис
-9     Бригадный подряд - Гитары
-9     МОЛОДОСТЬ ВНУТРИ - Лето press F
-9     aikko, Роки - Выпить
-9     Markul - Деньги на ветер
-9     Три дня дождя, Zivert - Выдыхай
-9     Браво - Этот город
-9     Hot Hot Heat - Shame on You
-9     Markul, SALUKI - Без фокусов
-9     Три дня дождя - Вина
-9     ШАРЫ - Завтра Понедельник
-9     saypink! - Девочка, которая поёт
-9     Cherry Animals - We Are the Killers
-9     Franz Ferdinand - Evil Eye
 9     Asper X - Змея
-9     МИНУС18 - Никогда
+9     IVOXYGEN - escape
+9     Hot Hot Heat - Shame on You
+9     Markul - Деньги на ветер
+9     Браво - Этот город
+9     Бригадный подряд - Гитары
+9     Kaiser Chiefs - The Factory Gates
+9     Y2K, bbno$ - Lalala
+9     fem.love - Я люблю тебя
+9     Markul, SALUKI - Без фокусов
 9     FIZICA - Тетрадь смерти
+9     SLAVA MARLOW, The Limba, Элджей - Она тебя любит
+9     МОЛОДОСТЬ ВНУТРИ - Лето press F
+9     Золотое Перо, BOOKER - Солярис
+9     Oldelaf - Le monde est beau
+9     Maroon 5 - This Love
+9     Ваганыч - Курьер мафака
+9     МИНУС18 - Никогда
+9     Port Avenue, groyne 203 - Не жаль
+9     Franz Ferdinand - Evil Eye
+9     saypink! - Девочка, которая поёт
+9     IVOXYGEN - come back
 9     Norma Tale - Сигарета
-8     SLAVA MARLOW, The Limba, Элджей - Она тебя любит
-8     FIZICA - Я хочу с тобой
-8     Get Scared - Sarcasm
-8     Pahanchick, Ник Черников - Счастлив до смерти
-8     playingtheangel, RORY - Как тебя не любить?
-8     FIZICA - Истина в зеркалах
-8     Pete and the Pirates - Blood Gets Thin
-8     plagueinside - Флегматика
+9     ШАРЫ - Завтра Понедельник
 8     Одда - Снег
-8     Port Avenue - Хочу с тобой гулять
-8     Y2K, bbno$ - Lalala
-8     Viza - Eros
-8     Maroon 5 - This Love
-8     Весна в Сан-Бликко - Виноград
-8     Три дня дождя - Где ты
-8     Антон Токарев - Седьмой лепесток
-8     Grace Jones - I've Seen That Face Before (Libertango)
+8     Гости Гаррисона - Сойду с ума
 8     ONEDAY - Похотливое желание младшего брата
-8     Король и Шут - Джокер
 8     Asper X - Надо улыбаться
-8     saypink! - ОСТАВЬ МЕНЯ
-8     pyrokinesis, МУККА, BOOKER - Некуда бежать
-8     Scarlet Pleasure, Suzane - What A Life (j'fais ma life)
-8     Abney Park - The Story That Never Starts
-8     Роки - Моя маленькая боль
-8     IVOXYGEN - escape
-8     The Beatles - Yesterday
-8     МИНУС18 - Бабочки
+8     plagueinside - Флегматика
+8     Pete and the Pirates - Blood Gets Thin
+8     Maroon 5 - Wake Up Call
 8     МОЛОДОСТЬ ВНУТРИ - Little Clown
 8     Канги - Много проблем
-8     Гости Гаррисона - Сойду с ума
-8     Eminem - We Made You
-8     IVOXYGEN - come back
+8     Procol Harum - Beyond the Pale
+8     Scarlet Pleasure, Suzane - What A Life (j'fais ma life)
+8     playingtheangel, RORY - Как тебя не любить?
+8     FIZICA - Я хочу с тобой
+8     Port Avenue - Хочу с тобой гулять
+8     FIZICA - Истина в зеркалах
+8     Три дня дождя - Где ты
+8     АнимациЯ - Родина
+8     pyrokinesis, МУККА, BOOKER - Некуда бежать
+8     Get Scared - Sarcasm
+8     IVOXYGEN - room
+8     МИНУС18 - Бабочки
+8     Антон Токарев - Седьмой лепесток
+8     Король и Шут - Джокер
+8     saypink! - ОСТАВЬ МЕНЯ
+8     plagueinside - Склянка
 8     ЖЩ - Там же, где и я
-7     Michael Patrick Kelly - Throwback
-7     Агата Кристи - Viva Kalman!
-7     Агата Кристи - В интересах революции
-7     Blur - Song 2
-7     Три дня дождя - Привычка
-7     Maroon 5 - Wake Up Call
-7     twenty one pilots - Nico and the Niners
-7     Panic! At The Disco - Emperor's New Clothes
-7     Procol Harum - Beyond the Pale
-7     The Beatles - Help!
-7     Гости Гаррисона - Алгоритмы
-7     Port Avenue - Не звони
-7     Гости Гаррисона - Васильки
-7     Rotfront - Sovietoblaster
-7     Quest Pistols Show - Ты так красива
-7     Fall Out Boy - Centuries
-7     Звери - Дожди-пистолеты
+8     Весна в Сан-Бликко - Виноград
+8     Grace Jones - I've Seen That Face Before (Libertango)
+8     Pahanchick, Ник Черников - Счастлив до смерти
+8     Eminem - We Made You
+8     Аквариум - Трамонтана
+8     The Beatles - Yesterday
+8     Три дня дождя, МУККА - Весна
+8     Роки - Моя маленькая боль
+8     Markul - Полёт нормальный
 7     SLAVA MARLOW - CAMRY 3.5
-7     Мы - Возможно
-7     IVOXYGEN - room
-7     plagueinside - Аутолиз
 7     Rusty Cage - There Isn't Any God
+7     Звери - Дожди-пистолеты
+7     ЖЩ - Жить так долго
+7     Король и Шут - Камнем по голове
+7     Нервы - Батареи
+7     SAINT PHNX - Nunchuk
+7     Port Avenue - Не звони
+7     Markul - Никто не увидит
+7     Michael Patrick Kelly - Throwback
+7     Три дня дождя - Я и одиночество
+7     The Beatles - Help!
+7     Rotfront - Sovietoblaster
+7     Blur - Song 2
+7     plagueinside - Нагльфар
+7     МОЛОДОСТЬ ВНУТРИ - Пьяный мастер
+7     Агата Кристи - В интересах революции
+7     Quest Pistols Show - Ты так красива
+7     Ваганыч - У и в
+7     Fall Out Boy - Centuries
+7     Гости Гаррисона - Алгоритмы
 7     Muse - New Born
+7     The Fratellis - Thief
+7     Гости Гаррисона - Васильки
+7     plagueinside - Аутолиз
+7     The Rasmus - Livin' In A World Without You
+7     Машина времени - Синяя птица
+7     Агата Кристи - Viva Kalman!
+7     Stay Away - Мне здесь не нравится
+7     Panic! At The Disco - Emperor's New Clothes
+7     Кошки Jam - Солнце (Купи мне гитару)
+7     Мы - Возможно
+7     twenty one pilots - Nico and the Niners
 7     ЖЩ - Разберутся без нас
 7     IVOXYGEN - RAIN BIRD
-7     Kaiser Chiefs - The Factory Gates
-7     АнимациЯ - Родина
-7     Машина времени - Синяя птица
 7     Три дня дождя - Космос
-7     МОЛОДОСТЬ ВНУТРИ - Пьяный мастер
-7     Markul - Никто не увидит
-7     The Rasmus - Livin' In A World Without You
-7     Кошки Jam - Солнце (Купи мне гитару)
-6     Panic! At The Disco - Nicotine
-6     Stay Away - Мне здесь не нравится
-6     Linkin Park - ROADS UNTRAVELED
-6     DSPRITE - Июль
-6     Hardcore Superstar - We Don't Need A Cure
-6     Король и Шут - Камнем по голове
-6     Гости Гаррисона - Нравится
-6     Сплин - Романс
-6     MORGENSHTERN - ДУЛО
-6     Нервы - Батареи
-6     Нервы - Самый дорогой человек
-6     Robbie Williams, Сергей Сергеевич Прокофьев - Party Like a Russian
-6     Ундервуд - Самая красивая девушка в мире
-6     NЮ - Дым
-6     Три дня дождя - Если я умру
-6     Агата Кристи - Сказочная тайга
-6     pyrokinesis - Я приду к тебе с клубникой в декабре
-6     Соседи Стерпят - Найду тебя везде
 6     katanacss - Синий
-6     Tristam - Once Again
-6     Три дня дождя - Всё из-за тебя
-6     Anacondaz - Уходи
-6     Три дня дождя, МУККА - Весна
-6     МОЛОДОСТЬ ВНУТРИ - Кажется горим
-6     plagueinside - Слова
-6     Anacondaz - Дубак
-6     MORGENSHTERN, Элджей - Cadillac
-6     Роки - О тебе
-6     Дурной Вкус - Пластинки
-6     Port Avenue, МОЛОДОСТЬ ВНУТРИ - Паразит
-6     КОСМОНАВТОВ НЕТ - баночка с окурками
-6     aikko, INSPACE, katanacss - Салют
-6     ТРИКСАЙД - Звонок
-6     Weathers - C'est la vie
-6     Hudi - Rain
-6     Drezden - МЕГАПОЛИС БЛЮЗ
-6     Linkin Park - In the End
-6     Ваганыч - У и в
-6     Skillet - Comatose
-6     Alan Walker, Sabrina Carpenter, Farruko - On My Way
-6     Король и Шут - Тяни!
-6     НЕПАРА - Плачь и смотри
-6     МУККА - Таблетка
 6     Король и Шут - Лесник
-6     FIZICA, SOBOLIHA - Мы прячем лица в дыме
-6     Manga - We Could Be The Same
-6     Lana Del Rey - Summertime Sadness
-6     Palaye Royale - Lonely
-6     ШАРЫ - Пешком по стене
-6     aikko - Больше у меня нет мечты
+6     Йорш - Андерграунд
+6     КОСМОНАВТОВ НЕТ - баночка с окурками
+6     ТРИКСАЙД - Звонок
+6     НЕПАРА - Плачь и смотри
+6     Anacondaz - Дубак
 6     Rotfront - Sigaretta
-5     Я.СГОРЕЛ.ДВАЖДЫ, strochka.mag - ПРОХЛАДНО
-5     Агата Кристи - Гетеросексуалист
-5     The Kid LAROI, Justin Bieber - STAY
-5     Драгни - Курт
-5     Thousand Foot Krutch - Fly on the Wall
-5     katanacss - На моря
-5     playingtheangel - Вечная
-5     Машина времени - Она идёт по жизни, смеясь
-5     Call Me Karizma - Offended
-5     Mister Sir - Happy Nation
-5     ПОЛМАТЕРИ - Мне похуй я панк
-5     Лера Массква - 7 этаж
-5     System of A Down - Toxicity
-5     Нервы - Вороны
-5     CMH, Lida - СТИКЕР
-5     Måneskin - ZITTI E BUONI
-5     АнимациЯ - Спички
-5     Bloodhound Gang - The Ballad Of Chasey Lain
-5     Три дня дождя - Беги от меня
-5     Static-X - The Only
-5     Depeche Mode - Little 15
-5     IVOXYGEN - RED CUP BLUE DRINK
-5     Павел Кашин - Путеводная звезда
-5     Гости Гаррисона - Кодеин
-5     FIZICA, SOBOLIHA - Stop the Clock
-5     Katy Perry - I Kissed A Girl
-5     Animal ДжаZ - Бессимптомно
-5     Green Day - Holiday
-5     Set It Off - Kill the Lights
-5     Джизус - reGeneration
-5     Alice Cooper, Roger Glover - Paranormal
-5     МОЛОДОСТЬ ВНУТРИ - Взрывы в голове
-5     40 Sons - I Have the Gun
-5     Måneskin - I WANNA BE YOUR SLAVE
-5     Lodoss - Идея проста
-5     CoaastGxd - Don't Forget(to Forget Me)
-5     IVOXYGEN - 3 am lullaby
-5     МОЛОДОСТЬ ВНУТРИ, dontxlook - На Поводке
-5     ТЕППО - Молот ведьм
-5     Джизус - Девочка в классе
-5     Britney Spears - Toxic
-5     plagueinside - Тритмент
-5     Sellout - Русская боль
-5     ЖЩ - Мрак
-5     Три дня дождя - Безразличие
-5     Игорь Куприянов - Черное солнце (бонус)
-5     Merk & Kremont, DNCE - Hands Up
-5     найтивыход - Знаешь, Мэри
-5     Quest Pistols Show - Я твой наркотик
-5     FIZICA - Навсегда один
-5     Narkomfin - делай делай делай
-5     ЖЩ - Жить так долго
-5     Король и Шут - Смельчак и ветер
-5     Port Avenue - Прятки
-5     Король и Шут - Гробовщик
-5     Take That - Kidz
-5     Коrsика - Боевик
-5     ПИКЧИ!, КОСМОНАВТОВ НЕТ - ТАКОЙ ЖЕ КАК И Я
-5     Три дня дождя - Отпускай
-5     Des Rocs - Why Why Why
-5     Maroon 5 - Lucky Strike
-5     INSPACE, katanacss - ВСПД
-5     КОСМОНАВТОВ НЕТ - Ау
+6     MORGENSHTERN, Элджей - Cadillac
+6     Panic! At The Disco - Nicotine
+6     Ундервуд - Самая красивая девушка в мире
+6     Король и Шут - Тяни!
+6     Alan Walker, Sabrina Carpenter, Farruko - On My Way
+6     Три дня дождя - Если я умру
+6     Три дня дождя - Всё из-за тебя
+6     Hardcore Superstar - We Don't Need A Cure
+6     АнимациЯ - Спички
+6     МОЛОДОСТЬ ВНУТРИ - Кажется горим
+6     DSPRITE - Июль
+6     Агата Кристи - Сказочная тайга
+6     Linkin Park - In the End
+6     Соседи Стерпят - Найду тебя везде
+6     plagueinside - Слова
+6     Bloodhound Gang - The Ballad Of Chasey Lain
+6     Дурной Вкус - Пластинки
+6     The Killers - Somebody Told Me
+6     Lana Del Rey - Summertime Sadness
+6     Linkin Park - ROADS UNTRAVELED
+6     Palaye Royale - Lonely
+6     MORGENSHTERN - ДУЛО
+6     Reach - Cover My traces
+6     Weathers - C'est la vie
+6     Anacondaz - Уходи
+6     IVOXYGEN - RED CUP BLUE DRINK
+6     The Death Set - Chew It Like A Gun Gum
+6     Три дня дождя - Беги от меня
+6     FIZICA, SOBOLIHA - Мы прячем лица в дыме
+6     Нервы - Самый дорогой человек
+6     pyrokinesis - Я приду к тебе с клубникой в декабре
+6     ШАРЫ - Пешком по стене
+6     Гости Гаррисона - Нравится
+6     Port Avenue, МОЛОДОСТЬ ВНУТРИ - Паразит
+6     Hudi - Rain
+6     МУККА - Таблетка
+6     Сплин - Романс
+6     IVOXYGEN - 3 am lullaby
+6     Роки - О тебе
+6     Drezden - МЕГАПОЛИС БЛЮЗ
+6     aikko - Больше у меня нет мечты
+6     Robbie Williams, Сергей Сергеевич Прокофьев - Party Like a Russian
+6     Skillet - Comatose
+6     NЮ - Дым
+6     Merk & Kremont, DNCE - Hands Up
+6     Tristam - Once Again
+6     найтивыход - Знаешь, Мэри
+6     Manga - We Could Be The Same
+6     IVOXYGEN - New Planet
+5     Золотое Перо - Резюме
 5     Our Last Night - Beggin'
-5     The Beatles - Norwegian Wood (This Bird Has Flown)
-5     VULPES VULT!, Индиалог - Amor
-5     POORSTACY - Hills Have Eyes
 5     ЮГ 404 - Выстрелы в грудь
-5     Fall Out Boy - My Songs Know What You Did In The Dark (Light Em Up)
-5     Ваганыч - Человек
-5     Markul - Полёт нормальный
-5     Markul - Белка
+5     Take That - Kidz
+5     Mister Sir - Happy Nation
+5     КОСМОНАВТОВ НЕТ - Ау
 5     Нервы - Слишком влюблён
+5     Павел Кашин - Путеводная звезда
+5     МОЛОДОСТЬ ВНУТРИ, dontxlook - На Поводке
+5     Игорь Куприянов - Черное солнце (бонус)
+5     Три дня дождя - Безразличие
+5     IVOXYGEN - FALLEN STARS
+5     Машина времени - Она идёт по жизни, смеясь
+5     40 Sons - I Have the Gun
+5     Гости Гаррисона - Кодеин
+5     Thousand Foot Krutch - Fly on the Wall
 5     Cold In May - Halo of the Gone
+5     Чёрный Обелиск - Марш революции
+5     Quest Pistols Show - Я твой наркотик
+5     МОЛОДОСТЬ ВНУТРИ - Взрывы в голове
+5     Jillzay, Скриптонит, Cheenah, 104, Magg '98, Kolyaolya - Бар «2 лесбухи»
+5     Lustra - Scotty Doesn't Know
+5     Set It Off - Kill the Lights
+5     Я.СГОРЕЛ.ДВАЖДЫ, strochka.mag - ПРОХЛАДНО
+5     Lodoss - Идея проста
+5     Лера Массква - 7 этаж
+5     playingtheangel - Вечная
+5     ПОЛМАТЕРИ - Мне похуй я панк
+5     Green Day - Holiday
+5     Драгни - Курт
+5     The Kid LAROI, Justin Bieber - STAY
+5     Des Rocs - Why Why Why
+5     Katy Perry - I Kissed A Girl
+5     Агата Кристи - Гетеросексуалист
+5     Animal ДжаZ - Бессимптомно
+5     Port Avenue - Прятки
+5     Call Me Karizma - Offended
+5     katanacss, INSPACE - ВСПД
+5     MORGENSHTERN - SHEIKH
+5     Narkomfin - делай делай делай
+5     Depeche Mode - Little 15
+5     plagueinside - Тритмент
+5     Melisa, TOMMO - I'm Alone
+5     Коrsика - Боевик
+5     ЖЩ - 7000000000
+5     Джизус - Девочка в классе
+5     walkie - Не на той стороне
+5     The Beatles - Norwegian Wood (This Bird Has Flown)
+5     Джизус - reGeneration
+5     Britney Spears - Toxic
+5     Duran Duran - Ordinary World
+5     Måneskin - Zitti e buoni
+5     Måneskin - I WANNA BE YOUR SLAVE
+5     CoaastGxd - Don't Forget(to Forget Me)
+5     Rusty Cage - The Hearse Song
+5     Король и Шут - Смельчак и ветер
+5     Maroon 5 - Lucky Strike
+5     Sixto Rodriguez - Rich Folks Hoax
+5     Король и Шут - Гробовщик
+5     katanacss - На моря
+5     ЖЩ - Мрак
+5     Ваганыч - Человек
+5     FIZICA - Навсегда один
+5     ПИКЧИ!, КОСМОНАВТОВ НЕТ - ТАКОЙ ЖЕ КАК И Я
+5     ТЕППО - Молот ведьм
+5     System of A Down - Toxicity
+5     Fall Out Boy - My Songs Know What You Did In The Dark (Light Em Up)
 5     Green Day - Troubled Times
-4     Asper X - Ты будешь гореть в аду
-4     Агата Кристи - Как на войне
-4     Три дня дождя - Осень и алкоголь
-4     КИССКОЛД - В расстоянии метра
-4     Or3o - Help Me
-4     этажность - Поле
-4     saypink! - Пятеро парней
-4     Fall Out Boy - Fourth Of July
-4     Fall Out Boy - 27
-4     Градусы - Хочется
-4     FIZICA - Готэм 2
-4     Finger Eleven - Paralyzer
-4     Green Day - ¿Viva La Gloria? (Little Girl)
-4     Matthew Koma - Kisses Back
-4     Bear Ghost - Necromancin Dancin
-4     pyrokinesis, МУККА - Днями-ночами
-4     Muse - Uprising
-4     Джизус - Открой глаза!!! (или закрой свой рот)
-4     Port Avenue - Медуза
-4     Port Avenue - Гетто
-4     Manic Bloom - Running From The Scene
-4     пачкасигарет - Подростки
-4     Агата Кристи - Ковёр-вертолёт
-4     Нервы - Нервы
-4     Reach - Cover My traces
-4     Hot Hot Heat - Conversation
-4     Stervell - Лезвие
-4     Aviators - Masks
-4     The Fratellis - Thief
-4     DEEP-EX-SENSE, walkie - Нейротоксин
-4     katanacss, INSPACE - Москва
-4     Три дня дождя - Bye-Bye
-4     Чёрный Обелиск - Марш революции
-4     FIZICA - Любовь — это миф
-4     MORGENSHTERN - SHOW
-4     The Death Set - Chew It Like A Gun Gum
-4     Burn The Ballroom - Whisper
-4     Muse, Matthew Bellamy, Dominic Howard, Chris Wolstenholme - Supermassive Black Hole
-4     Радиопомехи - Волки
-4     ЖЩ - Мне не нужен адрес
-4     twenty one pilots - Heathens
-4     Джизус - don't kill
-4     Imagine Dragons - Believer
-4     Fall Out Boy - This Ain't A Scene, It's An Arms Race
-4     Quest Pistols Show - Белая стрекоза любви
-4     Mourners - Die Like This
-4     ЖЩ - Пусть люди запомнят меня таким
-4     ЖЩ - Крепким словом
-4     пачкасигарет - Сердце
-4     Сплин - Мы сидели и курили
-4     пачкасигарет - Демон
-4     letlive. - A Weak Ago
-4     Машина времени - Поворот
-4     Радиопомехи - Заебался улыбаться
-4     FIZICA - Русский аристократ
-4     Imagine Dragons - Radioactive
-4     playingtheangel - Красные фонари
-4     Sixto Rodriguez - Rich Folks Hoax
+5     Sellout - Русская боль
+5     CMH, Lida - СТИКЕР
+5     POORSTACY - Hills Have Eyes
+5     Static-X - The Only
+5     Три дня дождя - Осень и алкоголь
+5     Нервы - Вороны
+5     Alice Cooper, Roger Glover - Paranormal
+5     Markul - Белка
+5     FIZICA, SOBOLIHA - Stop the Clock
+5     VULPES VULT!, Индиалог - Amor
 4     Port Avenue - Танцевали, влюблялись!
-4     Katy Perry - Roar
+4     20TOKENS - DEAD INSIDE
+4     MORGENSHTERN - B
 4     The Dead South - In Hell I'll Be in Good Company
-4     saypink! & Repentov - 16
-4     The Beach Boys - California Dreamin'
-4     Poor Mans Poison - Feed the Machine
-4     Lustra - Scotty Doesn't Know
-4     Золотое Перо - Резюме
-4     Макс Гирко - Стены
+4     playingtheangel - Чокер
 4     Arctic Monkeys - Old Yellow Bricks
+4     КИССКОЛД - Ты куришь так часто
+4     Aviators - Our Little Horror Story
+4     КИССКОЛД, Dневник Dжессики - Когда ты улыбаешься
+4     Fall Out Boy - Fourth Of July
+4     Port Avenue - Сапсан
+4     Blind Channel - Dark Side
+4     RAVANNA - Жги
+4     CRYPTO, Constance - Faded
+4     katanacss, INSPACE - Москва
+4     ЖЩ - Гранж
+4     playingtheangel - Красные фонари
+4     twenty one pilots - Heathens
+4     Port Avenue - Медуза
+4     IVOXYGEN - R3D
+4     Градусы - Хочется
+4     Or3o - Help Me
+4     Нервы - Нервы
+4     Три дня дождя - Bye-Bye
+4     Matthew Koma - Kisses Back
+4     pyrokinesis, МУККА - Днями-ночами
+4     Burn the Ballroom - Whisper
+4     Джизус - Открой глаза!!! (или закрой свой рот)
+4     Imagine Dragons - Believer
+4     АнимациЯ - Осторожно Россия
+4     АнимациЯ - Суки
+4     Сплин - Мы сидели и курили
+4     Радиопомехи - Заебался улыбаться
+4     DEEP-EX-SENSE, walkie - Нейротоксин
+4     Машина времени - Поворот
+4     MORGENSHTERN - SHOW
+4     MORGENSHTERN - Уфф... Деньги...
+4     Агата Кристи - Как на войне
+4     Fall Out Boy - 27
 4     Elton John - I'm Still Standing
 4     Arctic Monkeys - Do I Wanna Know?
 4     Arctic Monkeys - Why'd You Only Call Me When You're High?
-4     МОЛОДОСТЬ ВНУТРИ - Камикадзе
-4     Blind Channel - Dark Side
+4     Metallica - Master Of Puppets
+4     пачкасигарет - Прыгать и страдать
+4     АнимациЯ - Ильич
+4     Агата Кристи - Ковёр-вертолёт
+4     Сплин - Орбит без сахара
+4     Trevor Daniel - Falling
+4     ЖЩ - Крепким словом
+4     VULPES VULT! - Дура
+4     Виктор Салтыков - Белая ночь
+4     Браво - Дорога в облака
+4     Quest Pistols Show - Белая стрекоза любви
+4     playingtheangel, RORY - Бонус уровень
+4     Алексей Марковников - Две тысячи баксов
+4     Asper X - Ты будешь гореть в аду
+4     Bear Ghost - Necromancin Dancin
+4     Fall Out Boy - This Ain't A Scene, It's An Arms Race
+4     Port Avenue - Гетто
+4     20TOKENS - Сегодня или завтра
+4     MOUNT, Noize Generation - Around The World
+4     НРАВ - Начни с себя
+4     Сектор Газа - Туман
+4     FIZICA - Готэм 2
+4     Джизус - don't kill
 4     Call Me Karizma - Nails
-4     ТЕППО - Минутная слабость
-4     playingtheangel - Чокер
-4     Muse - Supremacy
-4     Машина времени - Разговор в поезде
+4     saypink! - Пятеро парней
 4     Лали - Море
+4     Aviators - Masks
+4     МОЛОДОСТЬ ВНУТРИ - Камикадзе
+4     пачкасигарет - Подростки
+4     Nico Collins - Borderline
+4     FIZICA - Любовь — это миф
+4     Muse, Matthew Bellamy, Dominic Howard, Chris Wolstenholme - Supermassive Black Hole
+4     пачкасигарет - Сердце
+4     пачкасигарет - Демон
+4     Радиопомехи - Волки
+4     Mourners - Die Like This
+4     Poor Mans Poison - Feed the Machine
+4     Andy Williams - Music To Watch Girls By
+4     Машина времени - Разговор в поезде
+4     Sunrise Avenue - I Don't Dance
+4     Макс Корж - Мотылёк
+4     The Beach Boys - California Dreamin'
+4     STERVELL - Лезвие
+4     Port Avenue, Дурная Слава - За ручку
+4     Katy Perry - Roar
+4     I Hate Kate - Then You Kiss
+4     этажность - Поле
+4     Muse - Supremacy
+4     Соседи Стерпят - Девочка панк
+4     The Vaccines - Wanderlust
+4     FIZICA, SOBOLIHA - Потеряли всё
+4     FIZICA - Русский аристократ
+4     КИССКОЛД - В расстоянии метра
+4     Muse - Uprising
+4     Manic Bloom - Running From The Scene
+4     Maroon 5 - One More Night
+4     Макс Гирко - Стены
+4     Oasis - Wonderwall
+4     ЖЩ - Пусть люди запомнят меня таким
+4     Green Day - ¿Viva La Gloria? (Little Girl)
+4     ТЕППО - Минутная слабость
+4     Imagine Dragons - Bones
+4     Slut - Easy To Love
+4     Hollywood Undead - Dead Bite
 4     Mushmellow - Black and White
 4     Nico Collins - Nothing Ever Changes
-4     НРАВ - Начни с себя
-4     VULPES VULT! - Дура
-4     Гости Гаррисона - Бокалы
-4     Макс Корж - Мотылёк
-4     Сплин - Орбит без сахара
-4     Rusty Cage - The Hearse Song
-4     I Hate Kate - Then You Kiss
-4     Hollywood Undead - Dead Bite
-4     Trevor Daniel - Falling
-4     Алексей Марковников - Две тысячи баксов
-4     MORGENSHTERN - Уфф... Деньги...
-4     пачкасигарет - Прыгать и страдать
-4     IVOXYGEN - FALLEN STARS
-4     Звери - Всё, что касается
-4     Соседи Стерпят - Девочка панк
-4     Crypto, Constance - Faded
-4     КИССКОЛД, Dневник Dжессики - Когда ты улыбаешься
-4     RAVANNA - Жги
-4     КИССКОЛД - Ты куришь так часто
-4     FIZICA, SOBOLIHA - Потеряли всё
-4     Виктор Салтыков - Белая ночь
-4     Maroon 5 - One More Night
 4     Гости Гаррисона - Огонёк
-4     20TOKENS - DEAD INSIDE
-4     Port Avenue - Сапсан
-4     aikko - В рюкзаки
-4     20TOKENS - Сегодня или завтра
+4     ЖЩ - Мне не нужен адрес
+4     Гости Гаррисона - Бокалы
+4     Imagine Dragons - Radioactive
+4     Finger Eleven - Paralyzer
+4     Звери - Всё, что касается
+4     Hot Hot Heat - Conversation
 4     Дмитрий Харатьян - Не вешать нос
-4     Port Avenue, Дурная Слава - За ручку
-3     Animal ДжаZ - Не твоя смерть
-3     Noize MC - Ниже нуля
-3     FIZICA - Фест-Виаль
-3     Reach - Higher Ground
-3     The Meto - Метагерой
-3     Poor Mans Poison - Pressure Cracks
-3     playingtheangel - МЁРТВЫЙ И ЗАРЯЖЕННЫЙ
-3     Irma - I Know
-3     20TOKENS, Tony Reznik - 2045
-3     хмыров - Тренер
+4     saypink! & Repentov - 16
+4     aikko - В рюкзаки
+4     Eagles Of Death Metal - Careless Whisper
+3     INSPACE, katanacss - На балконе
+3     DEEP-EX-SENSE - Душнилатриархат
+3     saypink! - Сашенька
+3     Eminem - Discombobulated
 3     Нервы - Лето, плавки, рок-н-ролл
+3     Ваганыч - Курьер мафака
+3     Anacondaz - Спаси, но не сохраняй
+3     Escape The Fate - Gorgeous Nightmare
+3     IVOXYGEN - Zoom Me
+3     MOTELBLVCK - Каприз
+3     Portugal. The Man - Feel It Still
+3     ПИКЧИ! - УЛЕТАЙ
 3     Sub Urban, Rei Ami - Freak
-3     MOUNT, Noize Generation - Around The World
-3     МОЛОДОСТЬ ВНУТРИ - Глупая девчонка
-3     Агата Кристи - Опиум для никого
-3     Три дня дождя, playingtheangel - Скучно
+3     Drug Твоей Тёлки - Вспоминаю танцы
+3     Ногу свело! - 5 километров
+3     Muse - Hysteria
 3     МОЛОДОСТЬ ВНУТРИ - Хиппи Нового Завета
-3     saypink! - Рипндип
-3     Тараканы! - Я смотрю на них
-3     Franz Ferdinand - The Dark Of The Matinée
+3     AWOLNATION - Soul Wars
+3     cheriimoya, Sierra Kidd - Living Life, In The Night
+3     77 Bombay Street - Number 2
+3     Король и Шут - Танец злобного гения
+3     Reach - Higher Ground
+3     пачкасигарет - Огонь
+3     20TOKENS, Tony Reznik - 2045
+3     ШАРЫ - Дзифт
 3     Markul - Корабли в бутылках
-3     20TOKENS - ЛЮБИЛ ВЧЕРА
-3     IRONTOM - Big Shot
+3     Мираж - Музыка нас связала
+3     Jon Fratelli - Rhythm Doesn’t Make You A Dancer
+3     Masked Wolf, Alok - Astronaut In The Ocean
+3     Агата Кристи - Алхимик
+3     пачкасигарет - Герой
+3     katanacss - Примеряй свои тени
+3     FINNEAS - Medieval
+3     FIZICA - Готэм 3
+3     ФРИК ПАТИ - Влюбиться и плакать
+3     Unlike Pluto - 8 Legged Dreams
+3     Fall Out Boy - Dance, Dance
+3     хмыров - Тренер
+3     Sellout, Nagart, Чёрный Вторник - Панк-рок! Да погромче!
+3     Kill or Cure - From Paris to Berlin
+3     Машина времени - Марионетки
+3     Радиопомехи - Некрасиво
+3     Би-2 - Виски
+3     Лали - комиксы
+3     Радиопомехи - Голубой вертолет
+3     FACE - Я роняю запад
+3     Градусы - Режиссер
+3     Deuce - Bad Attitude
+3     Dynoro, Gigi D'Agostino - In My Mind
+3     Muse - Thought Contagion
+3     МОЛОДОСТЬ ВНУТРИ - Унесло
+3     INSPACE - В моём доме только ты и пистолет
+3     Джизус - Я не теряю надежды
+3     katanacss, INSPACE - Зая
+3     The Pretty Reckless - Make Me Wanna Die
+3     Three Days Grace - I Hate Everything About You
+3     STERVELL - Нет слов
+3     Revolver - Leave Me Alone
+3     katanacss - Пьём и не знаем
 3     Simon Curtis - Pit of Vipers
-3     КОСМОНАВТОВ НЕТ - ЗАПИШИ МОЙ ЗВУК
+3     КИССКОЛД - Тату на запястье
+3     Asper X - Незнакомка
+3     Asper X - Петь в тишине
+3     VULPES VULT! - Недотрога
+3     Younger Hunger - Dead Inside
+3     Роки, INSPACE - Танцуешь и смеёшься
+3     КИНО - Троллейбус
+3     МОЛОДОСТЬ ВНУТРИ - Пульс
+3     Bob Dylan - Knockin' on Heaven's Door
+3     Living In Fiction - Overwhelmed
+3     Noize MC - Ниже нуля
+3     The Alan Parsons Project - The Turn of a Friendly Card, Pt. 2
+3     ЮГ 404 - Шиза
+3     MORGENSHTERN - Cristal & МОЁТ
+3     Коrsика - Раны
+3     Земфира - ромашки
+3     pyrokinesis - ОКО
+3     Imagine Dragons - Thunder
+3     MORGENSHTERN - ПОЧЕМУ?
+3     MISSIO - Animal
+3     Arrested Youth - What You're Made Of
+3     Гости Гаррисона - Музыка звучит
+3     Вячеслав Бутусов - Девушка по городу
+3     Агата Кристи - Опиум для никого
+3     Scarlet Pleasure - Hello
+3     And One - Killing the Mercy
+3     ПИКЧИ! - Я ТЕБЯ НЕ ЛЮБЛЮ
+3     Masked Wolf - Astronaut In The Ocean
+3     ЛСП, Oxxxymiron - Мне скучно жить
+3     Три дня дождя - Если я умру
+3     Palaye Royale - Tonight Is The Night I Die
+3     Port Avenue, ADOURE - Тело
+3     The Pussycat Dolls - Buttons
+3     Animal ДжаZ - Не твоя смерть
+3     пачкасигарет - Я никогда
+3     Ваганыч - Девочка-ниочём
+3     пачкасигарет - 101
+3     Тараканы! - Я смотрю на них
+3     katanacss - Не панковать
+3     Skillet - Monster
+3     Ленинградский концертный оркестр - Вальс
+3     DEKADANCE - Princess
+3     Hut - So Another Girl
+3     Сплин - Дочь самурая
+3     Franz Ferdinand - The Dark Of The Matinée
+3     PollmixaN - Моя проблема
+3     пачкасигарет - Чёрным котом
+3     IVOXYGEN - Falling
+3     DEEP-EX-SENSE, walkie - Нейротоксин
+3     Foo Fighters - The Pretender
+3     INSPACE, aikko, katanacss - каламбур
+3     IRONTOM - Big Shot
+3     Три дня дождя, playingtheangel - Скучно
+3     The Meto - Метагерой
+3     пачкасигарет - Не до сна
+3     Panic! At The Disco - House of Memories
+3     Павел Кашин - Город
+3     МОЛОДОСТЬ ВНУТРИ - Глупая девчонка
+3     Irma - I Know
+3     FIZICA - Послушайте (на слова В. Маяковского)
+3     Katy Perry, Juicy J - Dark Horse
+3     Panic! At The Disco - Casual Affair
+3     The Jaded Hearts Club, Nic Cester - Long and Lonesome Road
+3     Animal ДжаZ - Чувства
+3     FIZICA - Фест-Виаль
+3     My Chemical Romance - Teenagers
+3     playingtheangel - МЁРТВЫЙ И ЗАРЯЖЕННЫЙ
+3     Znaki - Сто триллионов
+3     АнимациЯ - Черта
+3     Три дня дождя - Прогулка
+3     20TOKENS - ЛЮБИЛ ВЧЕРА
+3     bbno$, Rebecca Black - yoga
+3     Poor Mans Poison - Pressure Cracks
+3     bbno$, Lentra - brainless
+3     saypink! - Рипндип
+3     Muse - Pressure
+3     Lady Gaga - Poker Face
+3     Griffinilla - Creepin' Towards the Door
+3     YOHIO - My Nocturnal Serenade
+3     The Vaccines - Back In Love City
+3     FACE - Юморист
+3     Franz Ferdinand - 40'
+3     RAVANNA - Стреляй
+3     Звери - Для тебя
+3     Oldelaf - Les filles qui s'appellent Valerie
+3     Palaye Royale - No Love In LA
+3     Fall Out Boy - Thnks fr th Mmrs
+3     Звери - Всё, что тебя касается
+3     Panic! At The Disco - The Greatest Show
+3     The Score - Head Up
+3     Green Day - Kill the DJ
 3     8(913) - Прыгай, за руки держась
 3     Franz Ferdinand - Can't Stop Feeling
-3     The Jaded Hearts Club, Nic Cester - Long and Lonesome Road
-3     Panic! At The Disco - The Greatest Show
-3     Muse - Pressure
-3     МОЛОДОСТЬ ВНУТРИ - Пульс
-3     MOTELBLVCK - Каприз
-3     Animal ДжаZ - Чувства
-3     And One - Killing the Mercy
-3     Би-2 - Виски
-3     playingtheangel, RORY - Бонус уровень
-3     Радиопомехи - Некрасиво
-3     пачкасигарет - Чёрным котом
-3     пачкасигарет - Не до сна
-3     пачкасигарет - Огонь
-3     ФРИК ПАТИ - Влюбиться и плакать
-3     Машина времени - Марионетки
-3     Deuce - Bad Attitude
-3     FACE - Я роняю запад
-3     Drug Твоей Тёлки - Вспоминаю танцы
-3     Лали - комиксы
-3     INSPACE, katanacss - На балконе
-3     Dynoro, Gigi D'Agostino - In My Mind
-3     Гости Гаррисона - Музыка звучит
-3     Роки, INSPACE - Танцуешь и смеёшься
-3     Imagine Dragons - Thunder
-3     MISSIO - Animal
-3     Scarlet Pleasure - Hello
-3     SLAVA MARLOW, MORGENSHTERN - Быстро
-3     Palaye Royale - Tonight Is The Night I Die
-3     Вячеслав Бутусов - Девушка по городу
-3     VULPES VULT! - Недотрога
-3     ЖЩ - Гранж
-3     ЖЩ - 7000000000
-3     Burn The Ballroom - Kiss Me You Animal
-3     пачкасигарет - Я никогда
-3     Metallica - Master Of Puppets
-3     katanacss - Примеряй свои тени
-3     Йорш - Андерграунд
-3     FACE - Юморист
-3     Muse - Thought Contagion
-3     ШАРЫ - Дзифт
-3     YOHIO - My Nocturnal Serenade
-3     IVOXYGEN - R3D
-3     INSPACE - В моём доме только ты и пистолет
-3     КИНО - Троллейбус
-3     saypink! - Сашенька
-3     Younger Hunger - Dead Inside
-3     IVOXYGEN - Falling
-3     Eminem - Discombobulated
-3     ЮГ 404 - Шиза
-3     Asper X - Петь в тишине
-3     Asper X - Незнакомка
-3     MORGENSHTERN - Cristal & МОЁТ
-3     FEDUK - 27
-3     DEEP-EX-SENSE - Душнилатриархат
-3     Masked Wolf - Astronaut In The Ocean
-3     Eagles Of Death Metal - Careless Whisper
-3     Anacondaz - Спаси, но не сохраняй
-3     katanacss - Пьём и не знаем
-3     пачкасигарет - 101
-3     КИССКОЛД - Тату на запястье
-3     Ваганыч - Девочка-ниочём
-3     My Chemical Romance - Teenagers
-3     Джизус - Я не теряю надежды
-3     FIZICA - Готэм 3
-3     Король и Шут - Танец злобного гения
-3     The Score - Head Up
-3     ПИКЧИ! - УЛЕТАЙ
-3     Katy Perry, Juicy J - Dark Horse
-3     katanacss - Не панковать
-3     Bob Dylan - Knockin' on Heaven's Door
-3     Panic! At The Disco - Casual Affair
-3     Ваганыч - Курьер мафака
-3     The Vaccines - Wanderlust
-3     Lady Gaga - Poker Face
-3     Port Avenue, ADOURE - Тело
-3     Palaye Royale - No Love In LA
-3     Griffinilla - Creepin' Towards the Door
-3     Sellout, Nagart, Чёрный Вторник - Панк-рок! Да погромче!
-3     pyrokinesis - ОКО
-3     The Offspring - Turning Into You
-3     cheriimoya, Sierra Kidd - Living Life, In The Night
-3     ПИКЧИ! - Я ТЕБЯ НЕ ЛЮБЛЮ
-3     Oldelaf - Les filles qui s'appellent Valerie
-3     Земфира - ромашки
-3     Павел Кашин - Город
-3     INSPACE, aikko, katanacss - каламбур
-3     Сектор Газа - Туман
-3     Звери - Напитки покрепче
-3     Slut - Easy To Love
-3     Muse - Hysteria
-3     Skillet - Monster
-3     Stervell - Нет слов
-3     Kill or Cure - From Paris to Berlin
-3     bbno$, Lentra - brainless
-3     Звери - Для тебя
-3     RAVANNA - Стреляй
-3     Sunrise Avenue - I Don't Dance
-3     Fall Out Boy - Immortals
-3     Aviators - Our Little Horror Story
-3     Sinew - It's a Sin
-3     PollmixaN - Моя проблема
-3     bbno$, Rebecca Black - yoga
-3     MORGENSHTERN - ПОЧЕМУ?
-3     Звери - Всё, что тебя касается
-3     Revolver - Leave Me Alone
-3     DEKADANCE - Princess
-3     The Pretty Reckless - Make Me Wanna Die
-3     Escape The Fate - Gorgeous Nightmare
-3     МОЛОДОСТЬ ВНУТРИ - Унесло
-3     Three Days Grace - I Hate Everything About You
-3     Fall Out Boy - Thnks fr th Mmrs
-3     Imagine Dragons - Bones
-3     FIZICA - Послушайте (на слова В. Маяковского)
-3     The Alan Parsons Project - The Turn of a Friendly Card, Pt. 2
-3     Masked Wolf, Alok - Astronaut In The Ocean
-3     Мираж - Музыка нас связала
-3     пачкасигарет - Герой
-3     Panic! At The Disco - House of Memories
-3     Радиопомехи - Голубой вертолет
-3     Unlike Pluto - 8 Legged Dreams
+3     And One - Playing Dead
 3     Manga - We Could Be The Same
-3     Сплин - Дочь самурая
-3     Green Day - Kill the DJ
-3     INSPACE, katanacss - Зая
-3     Foo Fighters - The Pretender
-3     IVOXYGEN - New Planet
-2     The Rasmus - First Day of My Life
-2     Znaki - Сто триллионов
-2     katanacss - Серебро
-2     Верка Сердючка, YHHB - ВСЁ БУДЕТ ХОРОШО
-2     Гости Гаррисона - Кодеин
-2     My Chemical Romance - The Sharpest Lives
-2     Fun., Wired Strings, Janelle Monáe - We Are Young
-2     ЕГОР НАТС - Хочу к тебе
-2     pyrokinesis - Письмо и безразличие интро
-2     NICKY ØDESSA - Monster
-2     МОЛОДОСТЬ ВНУТРИ - Скитлз
-2     Green Day - Carpe Diem
-2     Tanita Tikaram - Twist in My Sobriety
-2     Green Day - Nuclear Family
-2     FIZICA - Путь домой. Эпизод 1
-2     Jon Fratelli - Rhythm Doesn’t Make You A Dancer
-2     Green Day - Stay the Night
-2     Plain White T's - Hate (I Really Don't Like You)
-2     ЭТО ТьМА - Физтех уже не тот
-2     Selena Gomez & The Scene - Love You Like A Love Song
-2     Maroon 5, Christina Aguilera - Moves Like Jagger
-2     МИНУС18 - Цветы
-2     RAVANNA - Жги
-2     Adrienne Valerie - Lucky, Lucky, Lucky Me
-2     Stervell - Горите в аду
-2     Pixies - Where Is My Mind?
-2     pyrokinesis - Зависимость
-2     Reach - The Law
-2     playingtheangel - НАПИВАТЬСЯ С ЛУЧШИМИ
-2     Royal & the Serpent - Choke
-2     пивзавод2077 - 1000-7 литров пива
-2     ШАРЫ - Счастливая Жизнь
-2     ШАРЫ - Точкой Горизонта
-2     МОЛОДОСТЬ ВНУТРИ - Космонавт
-2     playingtheangel - Лекарство от здоровья
-2     Megadeth - 13
-2     ТЕППО, KseroN - ЛЮБОВЬ В ТАБЛЕТКАХ
-2     Green Day - Let Yourself Go
-2     этажность - Манекен
-2     Arctic Monkeys - R U Mine?
-2     этажность - Вдохновился и сдох
-2     COMETRON - Livin' la Vida Loca
-2     ЛСП, Oxxxymiron - Мне скучно жить
-2     DenDerty - Грустно
-2     20TOKENS - 1000 СЛОВ
-2     номер скрыт - Выйти из комнаты
-2     ONEDAY - А подожди
-2     Alan Walker, Au/Ra, Tomine Harket - Darkside
-2     МОЛОДОСТЬ ВНУТРИ - Феникс
-2     Nancy Sinatra - Bang Bang (Feat. Billy Strange)
-2     Tardigrade Inferno - Spooky Scary Skeletons
-2     Imagine Dragons - Natural
-2     Green Day - Oh Love
-2     Pierce The Veil - Hell Above
-2     Panic! At The Disco - Roaring 20s
-2     этажность - Жить для других
-2     Call Me Karizma - Rockstar
-2     Radiohead - Street Spirit (Fade Out)
-2     David Usher - Black Black Heart 2.0
-2     saypink! - Лужами вина
-2     Три дня дождя, Роки - Девочка эконом вариант
-2     Три дня дождя, aikko - Проиграли
-2     Arrested Youth - What You're Made Of
-2     Imagine Dragons - Demons
-2     SLAVA MARLOW - По глазам
-2     Oxxxymiron, Markul - Fata Morgana
-2     DUBOSS - Losing My Religion
-2     THRILL PILL, MORGENSHTERN, ЕГОР КРИД - Грустная Песня
-2     They Might Be Giants - Istanbul (Not Constantinople)
-2     Samaji - Пьяным в облака
-2     AWOLNATION - Soul Wars
-2     ssshhhiiittt! - Танцы
-2     Джизус - Ночь
-2     DEEP-EX-SENSE - ПарадиZ
-2     Shivaree - Goodnight Moon
-2     Ногу свело! - 5 километров
-2     Narkomfin, LIZER - Скажешь 'Да'
-2     Des Rocs - Nothing Personal
-2     Arctic Monkeys - 505
-2     Наконечный, Йорш, ДМЦ - Юра, мы всё проебали
-2     Franz Ferdinand - No You Girls
-2     fem.love - Разбитые сердца
-2     Quest Pistols Show - Революция
-2     Modern Talking - You're My Heart, You're My Soul
-2     Nico Collins - Borderline
-2     The Hat, Father John Misty, SI Istwa - The Angry River  [Theme From the HBO Series True Detective]
-2     The Limba - Enigma
-2     МОЛОДОСТЬ ВНУТРИ - Боль
-2     FINNEAS - Medieval
-2     The Coral - Dreaming of You
-2     Король и Шут - Ведьма и осёл
-2     HIM - The Funeral Of Hearts
-2     Король и Шут - Прыгну со скалы
-2     New Politics - Die For You
-2     Земфира - ариведерчи
-2     Земфира - П.М.М.Л.
-2     Britney Spears - Overprotected
-2     IVOXYGEN - Zoom Me
-2     Fousheé - Deep End
-2     Земфира - ИСКАЛА
-2     МУККА - От луны и до неба
-2     pyrokinesis - В городе, где гаснут фонари
-2     Земфира - ХОЧЕШЬ?
-2     pyrokinesis - Виа Долороса
-2     saypink! - Семнадцать желаний
-2     The Cog is Dead - Believer
-2     The Meto - Мечтатель
-2     Роки - Мандаринка
-2     The Cog is Dead - Old Town Road
-2     Grad!ent - Бог
-2     The Meto - Поздно
-2     Didier Marouani - Space Opera Part 1
-2     Didier Marouani - Space Opera Part 6
-2     Didier Marouani - Space Opera Part 2
-2     FIZICA - Любовь – это миф
-2     Cake - Long Line of Cars
-2     Машина времени - Брошенный богом мир
-2     Ленинградский концертный оркестр - Вальс
-2     Бездарность - Вишнёвый сок
-2     Didier Marouani - Space Opera Part 5
-2     Jarry - Мёртвые души Pt.1
-2     System of A Down - Chop Suey!
-2     Dругой Ветер - Счастье в бетонной помойке
-2     Martin Garrix, Macklemore, Fall Out Boy - Summer Days
-2     Алла Пугачёва, Кристина Орбакайте - Опять метель
-2     хмыров - Угл
-2     DREAMERS - Listen Out Loud
-2     Лжедмитрий IV - Танец архангелов
-2     FIZICA - Отдайте сердца
-2     DenDerty, МОЛОДОСТЬ ВНУТРИ - Горе
-2     20TOKENS - Не успел
-2     SAINT PHNX - Nunchuk
-2     Britney Spears - Oops!...I Did It Again
-2     IVOXYGEN - COLOR PILLS
-2     The Ghost Club - Same Graves
-2     GONE.Fludd - TRAXXXMANIA
-2     Роки - Температура
-2     ШАРЫ - Семья на час, друзья на день
-2     Mattiel - Count Your Blessings
-2     SLAVA MARLOW, MORGENSHTERN - Я НЕ ЗНАЮ
-2     Revolver - Get Around Town
-2     MONRAU - Девочка Петербурга
-2     Muse - Propaganda
-2     Queen - We Will Rock You
-2     МОЛОДОСТЬ ВНУТРИ - Дэд Инсайд Крисмас Клаб
-2     Basshunter - Now You're Gone
+3     Fall Out Boy - Immortals
+3     КОСМОНАВТОВ НЕТ - ЗАПИШИ МОЙ ЗВУК
+3     FEDUK - 27
+3     ONEDAY - А подожди
+3     Звери - Напитки покрепче
+3     Три дня дождя, aikko - Проиграли
+3     The Offspring - Turning Into You
+3     SLAVA MARLOW, MORGENSHTERN - Быстро
+3     Sinew - It's a Sin
 2     7715 - 2 Much
-2     Muse - Plug in Baby
-2     Muse - Feeling Good
-2     Muse - Sunburn
-2     Kloud - BLOOD
-2     Arctic Monkeys - Mardy Bum
-2     Muse - I Belong To You (+Mon Coeur S'Ouvre A Ta Voix)
-2     playingtheangel, RORY - Застрелись
-2     Franz Ferdinand - 40'
-2     Britney Spears - Criminal
-2     Muse - Resistance
-2     Muse - Undisclosed Desires
-2     Мумий Тролль - Владивосток 2000
-2     Markul - Отрицание
-2     INSPACE - В розовых очках
-2     Franz Ferdinand - Ulysses
-2     aikko, INSPACE, katanacss - Поеду домой
-2     And One - The Sound of Believer
-2     SLAVA MARLOW - ХОТЕЛ ТЕБЕ СКАЗАТЬ...
-2     katanacss, Роки - Молодым и пьяным
-2     Port Avenue, dontxlook - Неадекват
-2     Sonata Arctica - Still Loving You
-2     George Michael - Jesus to a Child
-2     Гости Гаррисона - Ядовит
-2     Джизус - Ван Гог
-2     Мимо Вселенной - Знаешь почему
-2     Jillzay, Скриптонит, Cheenah, 104, Magg '98, Kolyaolya - Бар «2 лесбухи»
-2     МОЛОДОСТЬ ВНУТРИ - Один дома
-2     Drug Твоей Тёлки - Разбитое сердечко
-2     Port Avenue - Хватит боли
-2     Markul - Cheat Code
-2     I Monster - These Are Our Children
-2     MORGENSHTERN, Тимати - El Problema
-2     Гости Гаррисона - Я так молод и так зол
-2     МОЛОДОСТЬ ВНУТРИ - МОЛОДОСТЬ ВНУТРИ
-2     ЛСП - Убийца Свин
-2     Градусы - Режиссер
-2     MORGENSHTERN - Новый мерин
-2     The Turtles - Happy Together
-2     The Meto - Голос ненависти
-2     Би-2 - Мяу кисс ми 
-2     Markul - Episode 2
-2     Гости Гаррисона - Там, где мой дом
-2     Убей меня, Эйс! - Вельзевул
-2     Muse - Starlight
-2     playingtheangel, RORY - Доверяй мне
-2     Three Days Grace - I Am Machine
-2     The Cranberries - Zombie
-2     Хитобои - Кхуям
-2     Anacondaz - Девочка-деньги
-2     MORGENSHTERN - ARISTOCRAT
-2     Timbaland, OneRepublic - Apologize
-2     twenty one pilots - Tear in My Heart
-2     Metallica - Fuel
-2     Fall Out Boy - Dance, Dance
-2     Aviators - Mechanical Instinct
-2     Три дня дождя - Прогулка
-2     Portugal. The Man - Feel It Still
-2     twenty one pilots - Lane Boy
-2     Anacondaz - Ангел
-2     katanacss - Лезвие в салфетке
-2     МУККА - Девочка, бритая наголо
-2     МУККА - Один
-2     INSPACE, beskemba4ka - татуировками
-2     Три дня дождя - Флешмоб
-2     benedixhion - toxin
-2     twenty one pilots - Message Man
-2     twenty one pilots - Hometown
-2     Living In Fiction - Overwhelmed
-2     Muse - The Handler
-2     Hut - So Another Girl
-2     Валентин Стрыкало - Дешёвые драмы
-2     Шоколадный торт - Питерский рассвет
-2     The Killers - Somebody Told Me
-2     Arvad - Мёртвый сад
-2     UGADAY_KTO - В книге всё не так
-2     saypink! - Мой рок-н-ролл
-2     katanacss - Круглосуточный
+2     The Happy Fits - Heart of a Dancer
+2     Panic! At The Disco - Say Amen (Saturday Night)
+2     THRILL PILL, MORGENSHTERN, ЕГОР КРИД - Грустная Песня
+2     Reach - The Law
+2     Mattiel - Count Your Blessings
 2     Ансамбль Весёлые ребята - В последний раз
 2     пачкасигарет - Зая
-2     Демо - Солнышко
-2     Земфира - До свидания...
-2     КИССКОЛД - Пьяный поэт
-2     Katy Perry - Roulette
-2     Nirvana - Where Did You Sleep Last Night
-2     ЖЩ - Впусти в себя добро
-2     Maroon 5 - Maps
-2     ЖЩ - У меня есть мечта
-2     Nirvana - Come As You Are
-2     ЖЩ - Сломанное сердце
-2     Iamjakehill - Die a King
-2     The Vaccines - Back In Love City
-2     Oasis - Wonderwall
-2     Muse - Time Is Running Out
-2     Muse - Endlessly
+2     МОЛОДОСТЬ ВНУТРИ - Космонавт
+2     КИНО - Апрель
+2     DUBOSS - Losing My Religion
+2     Oxxxymiron, Markul - Fata Morgana
+2     Mellah - Paseo
+2     Убей меня, Эйс! - Вельзевул
+2     Гости Гаррисона - Там, где мой дом
+2     saypink! - Семнадцать желаний
+2     FIZICA - Тик-Так
+2     Гости Гаррисона - Я так молод и так зол
+2     SLAVA MARLOW - По глазам
+2     КИНО - Дождь для нас
+2     playingtheangel - Лекарство от здоровья
+2     МИНУС18 - Кей поп
 2     Коrsика - Клуб 27
-2     Port Avenue - Подружка
-2     David Guetta, Sam Martin - Dangerous
-2     Sergey Eybog - Everlasting Summer
-2     Валентин Стрыкало - Кладбище самолётов
-2     Temples - The Golden Throne
-2     La La Land Cast - Another Day Of Sun
-2     Браво - Вася
-2     Браво - Дорога в облака
-2     The Beatles - Girl
-2     Erasure - Love To Hate You
-2     INSPACE, katanacss - 16 этаж
-2     KONGOS - Repeat After Me
-2     Narkomfin - Карма
-2     KONGOS - Birds Do It
-2     Anacondaz - Поезда
-2     Мираж - Я больше не прошу
-2     Alan Walker - Sing Me to Sleep
-2     Animal ДжаZ - Дыши
-2     НЕЗАБУДКИ - Воздух
-2     Port Avenue - Беды с головой
-2     Король и Шут - Отражение
-2     Лжедмитрий IV, DEEP-EX-SENSE - Суррогат
-2     77 Bombay Street - Number 2
-2     Asper X - Каждый справляется сам
-2     Павел Кашин - Ассоль
-2     Plastika - Страшно
-2     The Beatles - She Loves You
-2     The Beatles - Can't Buy Me Love
-2     хмыров - Аппаратура
-2     The Beatles - Drive My Car
-2     без обид - новая футболка
-2     Браво - Если бы на Марсе
-2     Агата Кристи - Ураган
-2     Антон Токарев - Три пути
-2     Агата Кристи - Чёрная луна
-2     МИНУС18 - Скучай
-2     Агата Кристи - Опиум для никого
-2     Metallica - Hardwired
-2     Muse - Bliss
-2     Ундервуд - Ангелы и аэропланы
-2     Ручной Рептилоид, Nutakoe - Сигарета
-2     ЗАВТРА БРОШУ - Лизергиновые сны
-2     Timeflies - Undress Rehearsal
-2     Eminem - Without Me
-2     Нервы - Кофе – мой друг
-2     Anacondaz - Мама, я люблю
-2     The Pussycat Dolls - Buttons
-2     Milky Chance - Colorado
-2     IOWA - Улыбайся
-2     INSPACE, katanacss - Капкан
-2     MOTELBLVCK - Странные
 2     Call Me Karizma - Float
-2     ЛСП - Винегрет
-2     Нервы - Ярче и теплее
-2     ЛСП - Вверх-вниз
-2     20TOKENS, Neverlove - ЩЕКАСТЫЕ
-2     Гран-Куражъ - Не обещай
-2     Alice Merton - No Roots
-2     Waterparks - Turbulent
-2     The White Stripes - Seven Nation Army
-2     КИНО - В наших глазах
-2     Del Shannon - Runaway
-2     Машина времени - Однажды мир прогнётся под нас
-2     Red Sun Rising - Deathwish
-2     Hellhills - Talking To Myself
-2     Машина времени - Пока горит свеча
-2     Eminem - Alfred’s Theme
+2     DenDerty - Грустно
+2     Adrienne Valerie - Lucky, Lucky, Lucky Me
+2     katanacss - Круглосуточный
+2     ssshhhiiittt! - Танцы
+2     МОЛОДОСТЬ ВНУТРИ - Скитлз
+2     saypink! - Пока район спит
+2     And One - The Sound of Believer
+2     UGADAY_KTO - В книге всё не так
+2     saypink! - Лужами вина
+2     Arctic Monkeys - 505
+2     katanacss - Лезвие в салфетке
+2     Markul - Отрицание
+2     The Meto - Пассажир
+2     The Meto - Голос ненависти
+2     Arctic Monkeys - Mardy Bum
+2     Samaji - Пьяным в облака
+2     saypink! - Мой рок-н-ролл
+2     RAVANNA - Жги
+2     Franz Ferdinand - Ulysses
+2     МИНУС18 - Цветы
+2     Franz Ferdinand - No You Girls
+2     КИССКОЛД - Пьяный поэт
+2     I Monster - These Are Our Children
+2     Royal & the Serpent - Choke
+2     Layto - Little Poor Me
+2     Наконечный, Йорш, ДМЦ - Юра, мы всё проебали
+2     Arctic Monkeys - R U Mine?
+2     INSPACE - В розовых очках
+2     МОЛОДОСТЬ ВНУТРИ - Один дома
+2     Джизус - Ван Гог
+2     КИНО - Сосны на морском берегу
 2     playingtheangel - Dragon Ball
-2     Madonna - Hung Up
+2     ЭТО ТьМА - Физтех уже не тот
+2     МУККА - От луны и до неба
+2     DEEP-EX-SENSE - ПарадиZ
+2     Muse - Propaganda
+2     Alan Walker, Au/Ra, Tomine Harket - Darkside
+2     номер скрыт - Выйти из комнаты
+2     Видеокассета твоих родителей - Люби и не люби
+2     20TOKENS - Не успел
+2     Jarry - Мёртвые души Pt.1
+2     этажность - Вдохновился и сдох
+2     этажность - Манекен
+2     Алла Пугачёва, Кристина Орбакайте - Опять метель
+2     этажность - Жить для других
+2     pyrokinesis - Письмо и безразличие интро
+2     Лжедмитрий IV - Танец архангелов
+2     Dругой Ветер - Счастье в бетонной помойке
+2     МОЛОДОСТЬ ВНУТРИ - МОЛОДОСТЬ ВНУТРИ
+2     ЛСП - Убийца Свин
+2     pyrokinesis - Зависимость
+2     Louis Armstrong, Bing Crosby - At the Jazzband Ball
+2     IVOXYGEN - COLOR PILLS
+2     fem.love - Разбитые сердца
+2     MOTELBLVCK - Странные
+2     AJR - Bang!
+2     The Meto - Поздно
+2     ПИКЧИ!, Рома Руденко - КАК РАНЬШЕ
+2     DREAMERS - Listen Out Loud
+2     INSPACE - Триста водки
+2     Ручной Рептилоид, Nutakoe - Сигарета
+2     Martin Garrix, Macklemore, Fall Out Boy - Summer Days
+2     Imagine Dragons - Natural
+2     FIZICA - Любовь – это миф
+2     VULPES VULT! - МТП
+2     МОЛОДОСТЬ ВНУТРИ - Феникс
+2     МИНУС18 - Скучай
+2     МИНУС18 - Школа
+2     MOTELBLVCK - For U
+2     Panic! At The Disco - Roaring 20s
+2     The Ghost Club - Same Graves
+2     хмыров - Угл
+2     The Cog is Dead - Believer
+2     ПИКЧИ! - Я поджигаю свой дом
+2     Port Avenue - Тамагочи
+2     Fousheé - Deep End
+2     Константин Никольский - Мой друг художник и поэт
+2     ЗАВТРА БРОШУ - Лизергиновые сны
+2     Роки - Мандаринка
+2     Пикули - Грустный русский взгляд
+2     20TOKENS - 1000 СЛОВ
+2     David Bowie - The Man Who Sold the World
+2     ШАРЫ - Точкой Горизонта
+2     The Hat, Father John Misty, SI Istwa - The Angry River  [Theme From the HBO Series True Detective]
+2     ШАРЫ - Счастливая Жизнь
+2     Три дня дождя - Флешмоб
+2     Eminem - Alfred’s Theme
+2     The Limba - Enigma
+2     Король и Шут - Ведьма и осёл
+2     MORGENSHTERN, Тимати - El Problema
+2     ШАРЫ - Семья на час, друзья на день
+2     The Meto - Мечтатель
+2     The Cog is Dead - Old Town Road
+2     Би-2 - Пекло
+2     Машина времени - Брошенный богом мир
+2     ЕГОР НАТС - Хочу к тебе
+2     Kloud - BLOOD
+2     Лжедмитрий IV, DEEP-EX-SENSE - Суррогат
+2     aikko, INSPACE, katanacss - Поеду домой
+2     Роки - Температура
+2     Гости Гаррисона - Ядовит
+2     playingtheangel - НАПИВАТЬСЯ С ЛУЧШИМИ
+2     Grad!ent - Бог
+2     Джизус - Ночь
+2     IVOXYGEN - sing
+2     ЭТО ТьМА - Физтех уже не тот
+2     pyrokinesis - В городе, где гаснут фонари
+2     pyrokinesis - Виа Долороса
+2     Des Rocs - Nothing Personal
+2     Call Me Karizma - Rockstar
+2     хмыров - Коллектор
+2     НЕЗАБУДКИ - Воздух
+2     ONEDAY - Детский магазин
+2     Narkomfin, LIZER - Скажешь 'Да'
+2     ONEDAY - За последней партой
+2     ONEDAY - Выносят из клуба
+2     MORGENSHTERN - Yung Hefner
+2     FIZICA - Путь домой. Эпизод 1
+2     katanacss - Серебро
+2     Мимо Вселенной - Знаешь почему
+2     Drug Твоей Тёлки - Разбитое сердечко
+2     Quest Pistols Show - Революция
+2     Роки, katanacss - Молодым и пьяным
+2     Lil Nas X - Old Town Road
+2     MORGENSHTERN - Новый мерин
+2     Waterparks - Turbulent
+2     Король и Шут - Прыгну со скалы
+2     КИНО - В наших глазах
+2     Радиопомехи - Девочка со вкусом текилы
+2     Muse - Sunburn
+2     Muse - I Belong To You (+Mon Coeur S'Ouvre A Ta Voix)
+2     Letdown. - Karma
+2     Muse - Resistance
+2     Hellhills - Talking To Myself
+2     Muse - Undisclosed Desires
+2     Foreign Figures, EJ Michels - Dark Room
+2     Tanita Tikaram - Twist in My Sobriety
+2     Three Days Grace - I Am Machine
+2     David Guetta, Sam Martin - Dangerous
 2     LIANDRES - уходящий маршрут
 2     пивзавод2077 - фотографирую пивас
-2     playingtheangel - Magnum Opus
-2     Franz Ferdinand - Love Illumination
-2     МИНУС18 - Кей поп
-2     VULPES VULT! - МТП
-2     AJR - Bang!
-2     MOTELBLVCK - For U
-2     Layto - Little Poor Me
-2     David Bowie - The Man Who Sold the World
-2     The Rasmus - In The Shadows
-2     WEEDMANE, Suicideyear - SUICIDE YEAR
-2     ПИКЧИ! - Я поджигаю свой дом
+2     Sergey Eybog - Everlasting Summer
+2     Plain White T's - Hate (I Really Don't Like You)
+2     Моральный кодекс - Первый снег
+2     Maroon 5 - Maps
+2     Nirvana - Where Did You Sleep Last Night
 2     Гости Гаррисона - Задувай
-2     The Subways - Rock & Roll Queen
-2     MORGENSHTERN - Yung Hefner
-2     ПИКЧИ!, Рома Руденко - КАК РАНЬШЕ
-2     АнимациЯ - Черта
-2     David Bowie - Cracked Actor
-2     OneRepublic - Counting Stars
-2     MIKA - Relax, Take It Easy
-2     ONEDAY - Детский магазин
-2     КИНО - Апрель
-2     ONEDAY - За последней партой
-2     The Meto - Пассажир
-2     ONEDAY - Выносят из клуба
-2     КИНО - Дождь для нас
-2     Радиопомехи - Перекресток
-2     Пикули - Грустный русский взгляд
-2     Port Avenue - Тамагочи
-2     НРАВ - Страх
+2     Muse - Muscle Museum
+2     George Michael - Jesus to a Child
+2     NICKY ØDESSA - Monster
+2     Би-2 - Мяу кисс ми 
+2     АНТИМАТЕРИЯ - Секунда до старта
+2     Верка Сердючка, YHHB - ВСЁ БУДЕТ ХОРОШО
+2     Revolver - Get Around Town
+2     WEEDMANE, Suicideyear - SUICIDE YEAR
 2     Гости Гаррисона - Квартира 35
-2     Три дня дождя - Если я умру
-2     Mellah - Paseo
-2     Flo Rida - Right Round
-2     МИНУС18 - Школа
-2     Би-2 - Пекло
+2     Muse - Plug in Baby
 2     Сектор Газа - Пора домой
-2     saypink! - Пока район спит
-2     Halou - Honeythief
 2     Сектор Газа - 30 лет
+2     My Chemical Romance - Na Na Na (Na Na Na Na Na Na Na Na Na)
+2     Три дня дождя, МУККА - Малолетки
+2     Muse - Feeling Good
+2     есть что сказать - Не сможет помочь
+2     Радиопомехи - Перекресток
+2     COMETRON - Livin' la Vida Loca
+2     Drug Flash - Тишина
+2     Timeflies - Undress Rehearsal
+2     Rob Thomas - I Think We'd Feel Good Together
+2     Нервы - Кофе – мой друг
+2     katanacss, INSPACE - Стриги каре
+2     katanacss, INSPACE - 16 этаж
+2     Anacondaz - Мама, я люблю
+2     Green Day - Misery
+2     IOWA - Улыбайся
+2     ЛСП - Винегрет
+2     ЛСП - Вверх-вниз
+2     Секрет - Привет
+2     Браво - Если бы на Марсе
+2     Jazzbe - Белоснежка
+2     They Might Be Giants, John Flansburgh, John Linnell - Istanbul (Not Constantinople)
+2     Port Avenue - Беды с головой
+2     katanacss, INSPACE - Капкан
+2     Nancy Sinatra - Bang Bang (Feat. Billy Strange)
+2     Ундервуд - Ангелы и аэропланы
+2     Aviators - Mechanical Instinct
+2     Radiohead - Street Spirit (Fade Out)
+2     NICKY ØDESSA - Poser
 2     ЮГ 404 - Запутался в тебе
+2     David Usher - Black Black Heart 2.0
+2     twenty one pilots - Tear in My Heart
+2     Чёрный Обелиск - Марш революции
+2     twenty one pilots - Lane Boy
+2     Агата Кристи - Опиум для никого
+2     twenty one pilots - Message Man
+2     twenty one pilots - Hometown
+2     Muse - The Handler
+2     Iamjakehill - Die a King
+2     Агата Кристи - Ураган
+2     Агата Кристи - Чёрная луна
+2     ТЕППО, KseroN - ЛЮБОВЬ В ТАБЛЕТКАХ
+2     Britney Spears - Overprotected
+2     Erasure - Love To Hate You
+2     Green Day - Stay the Night
+2     Imagine Dragons - Demons
+2     Markul - Cheat Code
+2     Markul - Episode 2
+2     Port Avenue - Хватит боли
+2     The Turtles - Happy Together
+2     Green Day - Oh Love
+2     Pierce The Veil - Hell Above
+2     SLAVA MARLOW, MORGENSHTERN - Я НЕ ЗНАЮ
+2     MONRAU - Девочка Петербурга
+2     МОЛОДОСТЬ ВНУТРИ - Дэд Инсайд Крисмас Клаб
+2     Green Day - Let Yourself Go
+2     Sonata Arctica - Still Loving You
+2     Green Day - Nuclear Family
+2     STERVELL - Горите в аду
+2     Green Day - Carpe Diem
+2     Megadeth - 13
+2     Fun., Janelle Monáe, Wired Strings - We Are Young
+2     DenDerty, МОЛОДОСТЬ ВНУТРИ - Горе
+2     Selena Gomez & The Scene - Love You Like A Love Song
+2     FIZICA - Отдайте сердца
+2     Мумий Тролль - Владивосток 2000
+2     Бездарность - Вишнёвый сок
+2     Basshunter - Now You're Gone
+2     Queen - We Will Rock You
+2     МОЛОДОСТЬ ВНУТРИ - Боль
+2     Maroon 5, Christina Aguilera - Moves Like Jagger
+2     Queen - Mother Love
+2     Pixies - Where Is My Mind?
+2     Queen - Another One Bites The Dust
+2     GONE.Fludd - TRAXXXMANIA
+2     The Rasmus - First Day of My Life
+2     SLAVA MARLOW - ХОТЕЛ ТЕБЕ СКАЗАТЬ...
+2     Port Avenue, dontxlook - Неадекват
+2     Port Avenue - Подружка
+2     playingtheangel, RORY - Застрелись
+2     Tardigrade Inferno - Spooky Scary Skeletons
+2     Сплин - Чудак
+2     АнимациЯ - Ванька
+2     The Offspring - The Kids Aren't Alright
+2     David Bowie - Cracked Actor
+2     Britney Spears - Oops!...I Did It Again
+2     Машина времени - Однажды мир прогнётся под нас
+2     Машина времени - Пока горит свеча
+2     System of A Down - Chop Suey!
+2     Cake - Long Line of Cars
+2     Didier Marouani - Space Opera Part 6
+2     Didier Marouani - Space Opera Part 1
+2     Franz Ferdinand - Love Illumination
+2     Thousand Foot Krutch - Complicate You
+2     Didier Marouani - Space Opera Part 2
+2     Didier Marouani - Space Opera Part 5
+2     Destiny's Child - Survivor
+2     Гости Гаррисона - Кодеин
+2     Modern Talking - You're My Heart, You're My Soul
+2     OneRepublic - Counting Stars
+2     Halou - Honeythief
+2     Kissin' Dynamite - Six Feet Under
+2     Flo Rida - Right Round
+2     Земфира - ХОЧЕШЬ?
+2     Земфира - ИСКАЛА
+2     playingtheangel, RORY - Доверяй мне
+2     Земфира - П.М.М.Л.
+2     Земфира - ариведерчи
+2     Del Shannon - Runaway
+2     New Politics - Die For You
+2     HIM - The Funeral of Hearts
+2     The Coral - Dreaming of You
+2     пивзавод2077 - 1000-7 литров пива
+2     The White Stripes - Seven Nation Army
+2     The Offspring - Pretty Fly (For a White Guy)
+2     Браво - Вася
+2     Shivaree - Goodnight Moon
+2     My Chemical Romance - The Sharpest Lives
+2     MIKA - Relax, Take It Easy
+2     Anacondaz - Ангел
+2     The Offspring - We Never Have Sex Anymore
+2     Timbaland, OneRepublic - Apologize
+2     Sono - Twist in My Sobriety
+2     Muse - Endlessly
+2     Muse - Time Is Running Out
+2     Nirvana - Come As You Are
+2     Валентин Стрыкало - Дешёвые драмы
+2     Валентин Стрыкало - Кладбище самолётов
+2     Temples - The Golden Throne
+2     Metallica - Whiskey in the Jar
+2     La La Land Cast - Another Day Of Sun
+2     хмыров - Аппаратура
+2     Metallica - Hardwired
+2     АнимациЯ - Штуки
+2     Мираж - Я больше не прошу
+2     Narkomfin - Карма
+2     Максим Леонидов - Видение
+2     The Beatles - Girl
+2     Антон Токарев - Три пути
+2     KONGOS - Repeat After Me
+2     KONGOS - Birds Do It
+2     Anacondaz - Поезда
+2     тринадцать карат - больше не буду
+2     The Rasmus - In The Shadows
+2     Vikki Leigh - Sing Me To Sleep
+2     Milky Chance - Colorado
+2     без обид - новая футболка
+2     Гран-Куражъ - Не обещай
+2     20TOKENS, Neverlove - ЩЕКАСТЫЕ
+2     MORGENSHTERN - ГЕРОЙ (skit)
+2     Red Sun Rising - Deathwish
+2     Arvad - Мёртвый сад
+2     Хитобои - Кхуям
+2     Anacondaz - Девочка-деньги
+2     playingtheangel - Magnum Opus
+2     НРАВ - Страх
+2     Aviators - Neon Sonata
+2     МУККА - Девочка, бритая наголо
+2     МУККА - Один
+2     Eminem - Without Me
 2     Deuce - Here I Come
-2     Panic! At The Disco - Say Amen (Saturday Night)
 2     Maroon 5, SZA - What Lovers Do
 2     Todd Masten - Main Theme
-2     Коrsика - Раны
-2     Сплин - Чудак
-2     Metallica - Whiskey in the Jar
-2     FIZICA - Тик-Так
-2     INSPACE - Триста водки
-2     NICKY ØDESSA - Poser
-2     Kissin' Dynamite - Six Feet Under
-1     МОЛОДОСТЬ ВНУТРИ, ЮГ 404 - Вне досягаемости
-1     pyrokinesis - Шёпот далёких звёзд
-1     INSPACE, katanacss - Стриги каре
+2     Нервы - Ярче и теплее
+2     Muse - Bliss
+2     Alice Merton - No Roots
+2     Демо - Солнышко
+2     Земфира - До свидания...
+2     Katy Perry - Roulette
+2     ЖЩ - Впусти в себя добро
+2     MORGENSHTERN - TEASER
+2     ЖЩ - У меня есть мечта
+2     ЖЩ - Сломанное сердце
+2     MORGENSHTERN - *
+2     The Cranberries - Zombie
+2     Metallica - Fuel
+2     Король и Шут - Дурак и молния
+2     Britney Spears - Criminal
+2     INSPACE, beskemba4ka - татуировками
+2     Павел Кашин - Ассоль
+2     The Fratellis - She's Not Gone yet but She's Leaving
+2     MORGENSHTERN - ARISTOCRAT
+2     The Beatles - Let It Be
+2     The Fratellis - Jeannie Nitro
+2     Plastika - Страшно
+2     The Beatles - Drive My Car
+2     The Beatles - Can't Buy Me Love
+2     Muse - Starlight
+2     Шоколадный торт - Питерский рассвет
+2     benedixhion - toxin
+2     Reckless Love - Monster
+2     Taco, Irving Berlin - Puttin' On The Ritz
+2     Asper X - Каждый справляется сам
+2     Король и Шут - Отражение
+2     The Subways - Rock & Roll Queen
+2     Animal ДжаZ - Дыши
+2     The Beatles - She Loves You
+2     Madonna - Hung Up
+2     Van Canto - Time And Time Again
 1     DSPRITE - Погоди
-1     ONEDAY - Оффми
-1     O.G EzzY - Шёлковая простынь
-1     No Resolve - Surface Pressure
-1     Drug Flash - Тишина
-1     без обид - как в последний раз
-1     8 Graves - Eye For An Eye
-1     saypink! - Для всех вас
-1     Adecvat_production - За цвет голубых очей
-1     VULPES VULT! - Девочка со спичками
-1     IRONTOM - Down for Whatever
-1     INSPACE, katanacss - Плачу внутрь
-1     Narkomfin - Кэшбэк
-1     ONEDAY - Прыгай
-1     Port Avenue - Доппельгангер
-1     DEEP-EX-SENSE, BaseFace - Fatum
-1     Oxxxymiron - Организация
-1     Jazzbe - Белоснежка
-1     ЛСП, SALUKI - Стресс
-1     aikko, katanacss - Женщины и алкоголь
-1     Fame on Fire - Blinding Lights
-1     Imagine Dragons, J.I.D, Arcane, League of Legends - Enemy
-1     Port Avenue - Панк
-1     Repentov, saypink! - Taylor Momsen
-1     Радиопомехи - Девочка со вкусом текилы
-1     Alexey Omelchuk - The Farewell
-1     aikko, twoxseven - Классика
-1     saypink! - Небо тошнит
-1     Port Avenue, zygomaticus - Тысяча атмосфер
-1     Saint Chaos, Sam Tinnesz, Vo Williams - Seeing Red
-1     Владимир Клявин - Черновичок
-1     Alexey Omelchuk - Into Sunset
-1     ЯМАУГЛИ - ПРИЗРАКОВ НЕ СУЩЕСТВУЕТ
-1     saypink! - Бальзам
-1     Alan Walker, Ruben - Heading Home
-1     Одда - Не проходит
-1     Port Avenue, groyne 203 - В сезон дождей
-1     katanacss - Серебро 2.0
-1     Asper X - Держись
 1     NICKY ØDESSA - Blocked
-1     Music Legends - Bastila Shan  [From "Star Wars: Knights of The Old Republic"]
-1     пачкасигарет - Голос
-1     losttoyland - Тишина
-1     Джизус - Revolution
-1     Stervell - Диснеевские фильмы
-1     Джизус - king of everything
-1     МОЛОДОСТЬ ВНУТРИ, pyrokinesis - Мёртвая тишина
-1     Port Avenue - Я не хочу тебя %$#@№
-1     20TOKENS - 5 УТРА
-1     пачкасигарет - Россия
 1     Narkomfin - Любая связь
-1     The Вепри - Кацево сердце
-1     есть что сказать - Не сможет помочь
-1     пачкасигарет - В моей голове
-1     МОЛОДОСТЬ ВНУТРИ - Душонка
-1     aikko, INSPACE - Терапия
-1     МОЛОДОСТЬ ВНУТРИ - Разные
-1     INSPACE - Кладовка
+1     HARU - Подорожник
+1     uniqe, nkeeei, ARTEM SHILOVETS, SAGARA - Лифон
+1     Joseph Trapanese, Joey Batey - Burn Butcher Burn
+1     DEEP-EX-SENSE, BaseFace - Fatum
+1     IVOXYGEN - LIVING IN THE SEA IS COOL
+1     Танцы сознания - Голос внутри
+1     8 Graves - Eye For An Eye
+1     aikko, katanacss - Женщины и алкоголь
+1     ЛЮТИК - СВБТ (Сатана всегда будет с тобой)
+1     FIZICA, PONOMORE, IMANKA - Не спать
+1     ONEDAY - Прыгай
+1     Joseph Trapanese, Joey Batey - Whoreson Prison Blues
+1     Quest Pistols Show - Я устал
+1     The Pretty Reckless - Hit Me Like A Man
+1     Manga - We Could Be The Same
+1     Lodoss - На эшафот
+1     MORGENSHTERN - TATU
+1     КОНВИРСЫ - Романтика
+1     Klaas - Sweet Dreams
+1     20TOKENS - 5 УТРА
+1     Нарисуй Улыбку, saypink! - Снова зима
+1     katanacss - Серебро 2.0
+1     IVOXYGEN - Save Yourself
+1     MORGENSHTERN - CCTV
+1     пачкасигарет - Россия
+1     IVOXYGEN - TRAIN LIFE two
+1     aikko, twoxseven - Классика
+1     МОЛОДОСТЬ ВНУТРИ, ЮГ 404 - Вне досягаемости
+1     MORGENSHTERN, ЛСП - Дор Блю
+1     Saint Chaos, Sam Tinnesz, Vo Williams - Seeing Red
+1     Саша Кэт, Вишневский - Потерялась девочка
+1     MORGENSHTERN - я понял (skit)
+1     Asper X - Держись
+1     MORGENSHTERN - Eeee
+1     Music Lab Collective, Георг Фридрих Гендель - Handel: Suite No. 4 in D minor for Harpsichord, HWV 437 - Sarabande
+1     CREAM SODA, ХЛЕБ - Плачу на техно
+1     MORGENSHTERN - KATRINA
+1     КОСМОНАВТОВ НЕТ - СНЕГОМ
+1     Narkomfin - Кэшбэк
+1     MORGENSHTERN - Ночь, Такси, Заметки
+1     VULPES VULT! - Девочка со спичками
+1     Imagine Dragons, JID, Arcane, League of Legends - Enemy
+1     MORGENSHTERN, Элджей - LOCATION
+1     leki, Лали - Омут
+1     shadowraze - astral step
+1     karbon - Я твой, играй со мной
+1     STERVELL, VSEMOJNO - Человечки
+1     bbno$, Lentra - mememe
+1     ЯМАУГЛИ - ПРИЗРАКОВ НЕ СУЩЕСТВУЕТ
+1     Purpleschala, AnimeVivi - A Beautiful Song (Simone Beauvoir) [From "NieR: Automata"]
+1     Narkomfin - Мой дом
+1     MORGENSHTERN - UGU
+1     Bing Crosby - Swinging On A Star
+1     Repentov, saypink! - Taylor Momsen
+1     ФРИК ПАТИ - Ничего не хочу
+1     Kraftwerk - Das Model
+1     Psycho Party!, VSEMOJNO - Чай
 1     Narkomfin - Больно
-1     МОЛОДОСТЬ ВНУТРИ - Мученик
+1     Port Avenue - Панк
+1     MORGENSHTERN - Вернуть Прошлое (skit)
+1     Port Avenue - Доппельгангер
+1     ТЕППО - V
+1     Харизма - Стой, пока живой
+1     MORGENSHTERN - GUF DISS
+1     Oxxxymiron - Организация
+1     Borgore, Tommy Cash - Forever In My Debt
+1     Сплин - Передайте это Гарри Поттеру, если вдруг его встретите
+1     Dabro - Юность
+1     МУККА - Боль
+1     Малышарики - Круг и шар
+1     Port Avenue, zygomaticus - Тысяча атмосфер
+1     INSPACE - Кладовка
+1     Аквариум - Великий Змей
+1     Снова не успел - В самое сердце
+1     VULPES VULT!, Port Avenue - Дивный новый мир
+1     Port Avenue, groyne 203 - В сезон дождей
+1     aikko, INSPACE - Терапия
+1     Letdown. - Harder To Breathe
+1     Джизус - Brom
+1     No Resolve - Surface Pressure
+1     без обид - как в последний раз
+1     Adecvat_production - За цвет голубых очей
+1     пачкасигарет - Голос
+1     Йорш, Наконечный - 25 - Шрамы
+1     Аквариум - Дом Всех Святых
+1     Port Avenue, groyne 203 - Взаперти
+1     Аквариум - Обида
+1     Джизус - I Hate Myself and Want to Live
+1     Аквариум - Агатина Песня
+1     Аквариум - Не Выходи За Дверь
+1     Аквариум - Вино Из Песка
+1     pyrokinesis, МУККА - чёрное сердце
+1     MORGENSHTERN, The Limba, NILETTO, Boombl4 - СКОЛЬКО СТОИТ ЛЮБОВЬ
+1     STERVELL - Я устал
+1     IVOXYGEN - STARGAZING
+1     IVOXYGEN - MERCURY
+1     Джизус - Alone In This World
+1     ONEDAY - Оффми
+1     Music Legends - Bastila Shan  [From "Star Wars: Knights of The Old Republic"]
+1     Я.СГОРЕЛ.ДВАЖДЫ - КОРЬ
+1     Владимир Клявин - Черновичок
+1     Markul - Конечная станция
+1     FIZICA - Ультрасекс (Intro)
+1     Asper X - Ветер перемен
+1     Asper X - Смерть луны
+1     FIZICA - Готэм навсегда (Intro)
+1     Аквариум - портал (вход)
+1     Аквариум - Ворожба
+1     Аквариум - Сюрприз
+1     Аквариум - Учение - Свет
+1     MORGENSHTERN, The Limba - BESTIE
+1     Set It Off - Who’s In Control
+1     MORGENSHTERN - Номер
+1     saypink! - Небо тошнит
+1     MORGENSHTERN - ПОСОСИ
+1     RAVANNA, pyrokinesis - Херувимы
+1     Аквариум - Махамайя
+1     Marcin, Иоганн Себастьян Бах - Toccata
+1     Аквариум - Я Не Я
+1     Гости Гаррисона - Халаты
+1     IVOXYGEN - MUTATION
+1     pyrokinesis - шёпот далёких звёзд
+1     Аквариум - портал (выход)
+1     АнимациЯ - Снег
+1     АнимациЯ - За кадром
+1     пачкасигарет - В моей голове
+1     saypink! - Для всех вас
+1     INSPACE, katanacss - Плачу внутрь
+1     BOOKER - ВРЕМЕННЫЕ ТРУДНОСТИ
+1     O.G EzzY - Шёлковая простынь
 1     КОСМОНАВТОВ НЕТ - КУСАЙ
 1     IVOXYGEN - circus
-1     Джизус - don't cry baby
-1     Narkomfin - Мой дом
-1     Харизма - Стой, пока живой
-1     Джизус - I Hate Myself and Want to Live
-1     Marcin, Иоганн Себастьян Бах - Toccata
-1     Cream Soda, ХЛЕБ - Плачу на техно
-1     Music Lab Collective, Георг Фридрих Гендель - Handel: Suite No. 4 in D minor for Harpsichord, HWV 437 - Sarabande
-1     VULPES VULT!, Port Avenue - Дивный новый мир
-1     IVOXYGEN - MUTATION
-1     Я.СГОРЕЛ.ДВАЖДЫ - КОРЬ
-1     Джизус - Brom
-1     Йорш, Наконечный - 25 - Шрамы
-1     Нарисуй Улыбку, saypink! - Снова зима
-1     Klaas - Sweet Dreams
-1     Джизус - Alone In This World
-1     КОНВИРСЫ - Романтика
-1     uniqe, nkeeei, ARTEM SHILOVETS, SAGARA - Лифон
-1     OneRepublic - Better Days
-1     Manga - We Could Be The Same
-1     Dabro - Юность
-1     Quest Pistols Show - Я устал
-1     BOOKER - ВРЕМЕННЫЕ ТРУДНОСТИ
-1     МУККА - Боль
-1     Lodoss - На эшафот
-1     RAVANNA, pyrokinesis - Херувимы
-1     HARU - Подорожник
-1     ЛЮТИК - СВБТ (Сатана всегда будет с тобой)
-1     Гости Гаррисона - Халаты
-1     MORGENSHTERN - Номер
-1     Palaye Royale - Little Bastards
-1     Port Avenue, groyne 203 - Взаперти
-1     The Pretty Reckless - Hit Me Like A Man
-1     Skurt, KAREV - Сила красоты
-1     Ленинград - Экспонат
-1     FIZICA, PONOMORE, IMANKA - Не спать
-1     MORGENSHTERN - ПОСОСИ
-1     Вокруг фонарного столба - Самый лучший друг
-1     Joseph Trapanese, Joey Batey - Burn Butcher Burn
-1     Set It Off - Who’s In Control
+1     Джизус - king of everything
 1     Ваганыч - Металлл
+1     Nalien - Твоей маме понравится
+1     Аквариум - Еретик
 1     Palaye Royale - Nightmares
-1     Танцы сознания - Голос внутри
+1     ЛСП, SALUKI - Стресс
+1     Джизус - don't cry baby
+1     plagueinside - кумир твоей воображаемой подруги
+1     STERVELL - Диснеевские фильмы
+1     The Вепри - Кацево сердце
+1     Port Avenue - Я не хочу тебя %$#@№
+1     Джизус - Revolution
+1     Аквариум - Королям Листопада
 1     В области сердца - Но не я
-1     Joseph Trapanese, Joey Batey - Whoreson Prison Blues
-1     Снова не успел - В самое сердце
-1     хмыров - Бестолковый
-1     Purpleschala - A Beautiful Song (Simone Beauvoir) [From "NieR: Automata"]
-1     20TOKENS - ПОХОРОНИ МЕНЯ
-1     Port Avenue, 7ER0 - Ненавижу (Lanet)
-1     МУККА - Paintball
-1     Letdown. - Karma
-1     Colm R. McGuinness, Hans Zimmer - Hoist the Colours
-1     Градусы - Запишу своё сердце на секцию плаванья
-1     Eminem, Skylar Grey - Black Magic
-1     ЕГОР КРИД - PUSSY BOY
-1     SLAVA MARLOW, MK - Нет Проблем
-1     ЮГ 404 - Самолётики
-1     VULPES VULT! - Будет кровь!
-1     Слава КПСС, ЗАМАЙ - Antihypeintro
-1     ФРИК ПАТИ - ТЕПЛО
-1     bbno$, Diamond Pistols - help herself
-1     забей, лерочка - каждый, кто делал тебе больно
-1     всё никак - Кто тебе сказал
-1     INSPACE, Роки - На утро
-1     Четыре Сыра - Пить и материться
-1     Eryn Martin - KID
-1     Alan Walker, ISÁK - Sorry
-1     ПИКЧИ! - КАК РАНЬШЕ
-1     Angels & Airwaves - Restless Souls
-1     Kijugo - My War but is it okay if it's lofi?
-1     saypink! - Падал снег
-1     saypink! - Типа я и типа ты
-1     saypink! - Как так?
-1     Нервы - Май bye
-1     The Wellermen - Wellerman
-1     Samaji - Любит тишину
-1     Лали - Химия
-1     Нервы - Счастье
-1     Феху, katanacss - Твоё лицо
+1     saypink! - Бальзам
+1     Вокруг фонарного столба - Самый лучший друг
+1     Skurt, KAREV - Сила красоты
+1     Fame on Fire - Blinding Lights
+1     Scott Bradlee’s Postmodern Jukebox, Haley Reinhart - Don't Speak
+1     ЮГ 404, Группа Нога - Песни про любовь
+1     MORGENSHTERN - ПОСЛЕДНИЙ БИТ ОТ СЛАВЫ
 1     Джизус - Человек, который изменил Всё
 1     Джизус - Во имя Любви
 1     Джизус - Небом и Звездой
-1     пачкасигарет - Не С Тобой
-1     пачкасигарет - Атланты
+1     Потомучто - Жизнь и смерть
+1     playingtheangel - хочу тебя юзать
 1     YOHIO - Undo
-1     FIZICA - Я хочу с тобой
-1     aikko, Роки - Не отдавай
-1     Måneskin, Iggy Pop - I WANNA BE YOUR SLAVE
+1     Владимир Клявин - Нет Никого
+1     KA$TRO - In Essence
 1     pyrokinesis - Мискузи мадам аутро
-1     FIZICA - Больше, чем BDSM
 1     Everblack Melodies - Война перемен
-1     Видеокассета твоих родителей - Люби и не люби
-1     Гости Гаррисона - Не грусти
-1     Hahapoison - Keylogger
+1     Феху, katanacss - Твоё лицо
+1     Vanilla Ninja - Gotta Get It Right
+1     MORGENSHTERN - СКИТ ОТ СЛАВЫ
+1     забей, лерочка - каждый, кто делал тебе больно
+1     MORGENSHTERN - БЕБЕБЕ
 1     VULPES VULT! - Оригами
+1     John McCrea - I Wanna Be Your Dog
 1     VULPES VULT! - Король зверей
-1     The Rasmus, Apocalyptica - Venomous Moon
+1     Adam jensen - Trouble
 1     ПИКЧИ! - Наркоман
-1     ZillaKami - FROSTY
 1     ПИКЧИ! - Карма
-1     Три дня дождя, МУККА - Малолетки
 1     ПИКЧИ! - Мне тоже больно
 1     БИОМУСОРА - В Сердечке
 1     Соседи Стерпят - Стану геем
-1     Grey - HELL REPLIED
+1     VULPES VULT! - Клара
+1     Юрий Суздаль - Имя твоё
+1     Джизус - Ветер Моих Перемен
+1     20TOKENS - ПОХОРОНИ МЕНЯ
+1     20TOKENS - ИНСОМНИЯ
+1     20TOKENS, ЗАВТРА БРОШУ - ДУРА
+1     Четыре Сыра - Пить и материться
+1     Eryn Martin - KID
+1     ПИКЧИ! - КАК РАНЬШЕ
+1     Karamel Kel - Aglow (Intro)
+1     Angels & Airwaves - Restless Souls
+1     Kijugo - My War but is it okay if it's lofi?
 1     zhanulka - ты похож на кота
 1     Дарья Виардо - Бог в меня верит
-1     Markul - Бумеранг
-1     Slowbarry - Мёртвый внутри
-1     Neverlove - Ледибой
-1     ANAZED - И я
-1     Imagine Dragons - Follow You
-1     John McCrea - I Wanna Be Your Dog
-1     Adam jensen - Trouble
-1     КОСМОНАВТОВ НЕТ - Из космоса с любовью
-1     Daughtry - Heavy Is The Crown
-1     MILKOVSKYI - Спать
-1     Роки - В сопли
-1     VULPES VULT! - Клара
-1     Драгни - Не нравишься
-1     Юрий Суздаль - Имя твоё
-1     plagueinside - Курс на пару
-1     Soltwine - Ставь чайник
-1     M.O.P. - Ante Up
-1     bbno$ - my oh my
-1     Скрэт - Между делом
-1     M.O.P. - Ante Up (Robbin Hoodz Theory)
-1     Mathbonus - there is light in us
-1     Нервы - Твоим морем
-1     Нервы - Потери
-1     Нервы - Я собираюсь в путь
-1     Нервы - Отрицательный герой
-1     Нервы - Нахуя тебе я
-1     НЕСЛУШАЙЭТО, ЗАВТРА БРОШУ - БЛА БЛА
-1     L.Dre - Gravity Falls
-1     MORGENSHTERN - БЕБЕБЕ
-1     MORGENSHTERN - СКИТ ОТ СЛАВЫ
-1     Нервы - Станция Туман
-1     клуб любителей музыки - Дура
+1     ПОСТная херня - Говно для модников
+1     Anacondaz, кис-кис - Сядь мне на лицо
 1     Hahapoison - Runway/Runaway
 1     Black Gryph0n, Baasik - Insane
+1     пачкасигарет - Я помню
 1     FISHY - Блефую (Пусть так)
-1     Гран-Куражъ - По ту сторону неба
 1     Miracle of Sound - A Thousand Eyes
+1     Золотое Перо, Pochezach? - Мольер
 1     Aviators, Miracle of Sound - A Thousand Eyes
-1     Коrsика - Последний шанс
+1     раздор! - Восток (Иуда)
+1     ЗАВТРА БРОШУ - Твои зелёные носки
+1     ЗАВТРА БРОШУ - Телеграм
 1     Роки - Пустая
+1     MishRooms - Будем
+1     playingtheangel, Три дня дождя - Худшее во мне
 1     Остап Парфёнов - ТЫ НЕ КОРОЛЕВА
 1     Oliver Tree - When You're Around
-1     Потомучто - Жизнь и смерть
-1     PALC, BassnPanda - Тараканы
-1     Unknown - Asclepias
-1     MORGENSHTERN - ПОСЛЕДНИЙ БИТ ОТ СЛАВЫ
-1     Unknown - Allium
-1     МУККА - Медуза
-1     playingtheangel - хочу тебя юзать
-1     МУККА - Васаби
-1     МУККА - P!NK NEVERLAND
-1     Unknown - Intro after midnight
-1     Владимир Клявин - Нет Никого
-1     KA$TRO - In Essence
-1     Vanilla Ninja - Gotta Get It Right
-1     Everblack Melodies - Закрывая глаза
-1     нехудожник. - Обитель зимней грозы
+1     bbno$ - my oh my
+1     Скрэт - Между делом
+1     НЕСЛУШАЙЭТО, ЗАВТРА БРОШУ - БЛА БЛА
+1     ANAZED - И я
+1     bbno$, Diamond Pistols - help herself
+1     Soltwine - Ставь чайник
 1     Tilekid - you not the same
-1     Джизус - Ветер Моих Перемен
-1     20TOKENS - ИНСОМНИЯ
-1     Bing Crosby - Swinging On A Star
-1     20TOKENS, ЗАВТРА БРОШУ - ДУРА
-1     The Cog is Dead - Bang!
-1     KONG. - Bad Guy
-1     Лали - Мама, отпусти
+1     INSPACE, Роки - На утро
+1     нехудожник. - Обитель зимней грозы
+1     Everblack Melodies - Закрывая глаза
+1     Unknown - Intro after midnight
+1     Benjamin Bonum Nocte, Колыбельная, Спи малыш - Тише маленький ребенок
+1     Alan Walker, ISÁK - Sorry
+1     МУККА - P!NK NEVERLAND
+1     МУККА - Васаби
+1     МУККА - Медуза
+1     saypink! - Падал снег
+1     saypink! - Типа я и типа ты
+1     saypink! - Как так?
+1     Unknown - Allium
+1     Нервы - Май bye
+1     The Wellermen - Wellerman
+1     Unknown - Asclepias
+1     клуб любителей музыки - Дура
+1     Markul - Бумеранг
+1     Нервы - Станция Туман
+1     PALC, BassnPanda - Тараканы
+1     Гран-Куражъ - По ту сторону неба
+1     Коrsика - Последний шанс
+1     Neverlove - Ледибой
+1     Imagine Dragons - Follow You
+1     L.Dre - Gravity Falls
+1     КОСМОНАВТОВ НЕТ - Из космоса с любовью
+1     Нервы - Счастье
+1     Лали - Химия
+1     Спектакль Джо - Портрет
+1     хмыров - Бестолковый
+1     Нервы - Нахуя тебе я
+1     Нервы - Отрицательный герой
+1     МУККА - Paintball
+1     Нервы - Я собираюсь в путь
+1     Нервы - Потери
+1     МОЛОДОСТЬ ВНУТРИ - Разные
+1     Нервы - Твоим морем
+1     Mathbonus - there is light in us
+1     M.O.P. - Ante Up (Robbin Hoodz Theory)
+1     M.O.P. - Ante Up
+1     plagueinside - Курс на пару
+1     Градусы - Запишу своё сердце на секцию плаванья
+1     Eminem - Alfred
+1     Slowbarry - Мёртвый внутри
+1     Eminem, Skylar Grey - Black Magic
+1     Драгни - Не нравишься
+1     Tik Tok, Tendencias, Challenge - Capone - Oh No
+1     Роки - В сопли
+1     MILKOVSKYI - Спать
+1     Daughtry - Heavy Is The Crown
+1     SLAVA MARLOW, MK - Нет Проблем
+1     всё никак - Кто тебе сказал
+1     ФРИК ПАТИ - ТЕПЛО
+1     без обид - буду грустным
+1     Metallica - Wherever I May Roam
+1     KENTUKKI - Замигает свет
+1     20TOKENS - УМИРАТЬ НЕ СТРАШНО
 1     Everblack Melodies - Мой демон
 1     Lil Moregun, Hahapoison - She Knows
+1     20TOKENS - НЕ ХОЧУ ЛЮБИТЬ
 1     Reach - Motherland
-1     pyrokinesis - чапман ред
-1     Markul - Лабиринт
 1     МЭЙБИТУМОРРОУ, katanacss - ОТРАВА [Prod. by SURFDUDE, Феху]
-1     Markul - Episode 4
+1     Samuel Kim - Evil Morty Theme (For The Damaged Coda)
 1     Где Фантом? - Я тебя люблю
 1     ЗАМАЙ, Port Avenue - Инвектива
 1     Everblack Melodies - Шёпот в темноте
 1     PIZZA - Дарья
-1     Егор Не Помню, Морфинизм Пыльцы - Пепел сигареты
-1     Сметана band - Плохие манеры
-1     Markul - Episode 3
-1     кис-кис - падик
-1     РУБИ КОНцы! - Королева гранж
-1     Sagath, katanacss - Маяк
-1     Markul - Syrena
-1     FIZICA, SOBOLEVSKAYA - В хаосе парада
-1     FIZICA, Arlekinoooo - Принц иллюминатов
-1     Ashbury Heights - Spectres from the Black Moss
-1     IVOXYGEN - it was September when i pushed you back
-1     KENTUKKI - Замигает свет
-1     20TOKENS - УМИРАТЬ НЕ СТРАШНО
-1     билборды - Рисую кровью
-1     Luverance - 321
-1     Роки - Красавица не подарок
-1     Letdown. - Harder To Breathe
-1     ФРИК ПАТИ - Ничего не хочу
-1     Kraftwerk - Das Model
-1     Psycho Party!, VSEMOJNO - Чай
-1     IVOXYGEN - sing
-1     ТЕППО - V
-1     Borgore, Tommy Cash - Forever In My Debt
-1     bbno$, Lentra - mememe
-1     КОСМОНАВТОВ НЕТ - СНЕГОМ
-1     Саша Кэт, Вишневский - Потерялась девочка
-1     shadowraze - astral step
-1     leki, Лали - Омут
-1     karbon - Я твой, играй со мной
-1     ЮГ 404, Группа Нога - Песни про любовь
-1     Drug Твоей Тёлки - Время уже четыре
-1     без обид - буду грустным
-1     Роки - На рогах (Пустая 2)
-1     The Cog is Dead - Bad Guy
-1     Melodicka Bros - We Drink Your Blood
-1     IRONTOM - When a Dickhead Dies
-1     Guitarrista de Atena - Fairy Tail Main Theme (From "Fairy Tail")
-1     POORSTACY - Don't Look At Me
-1     Убей меня, Эйс! - Милая трагедия
-1     Alina Gingertail - Waffentrager (From “WOT”)
-1     fem.love - Мне звонили НЛО
-1     Гости Гаррисона - Обещай
-1     MOTELBLVCK - Розовые кеды
-1     20TOKENS - НЕ ХОЧУ ЛЮБИТЬ
-1     Samuel Kim - Evil Morty Theme (For The Damaged Coda)
-1     Metallica - Wherever I May Roam
-1     Наше Последнее Лето - 410
-1     VOSTOK - Welcome to the Show
-1     Neverlove - Электронка
-1     LUND - Out Of Time
-1     The Cog is Dead - Be Prepared (From "The Lion King")
-1     ONEDAY - Копируй
-1     The Happy Fits - Heart of a Dancer
-1     ЕГОР КРИД, Тимати - Гучи
-1     ТЕППО - ГОЛОСА
-1     The Vaccines - Bandit
-1     Karamel Kel - Aglow (Intro)
-1     Des Rocs - Hanging by a Thread
-1     ПОСТная херня - Говно для модников
-1     Anacondaz, кис-кис - Сядь мне на лицо
-1     Папин Олимпос - На сломанных каблуках
-1     BoyWithUke - Toxic
-1     пачкасигарет - Я помню
-1     Alpine Universe - Battles
-1     Sub Urban, Bella Poarch - INFERNO
-1     Золотое Перо, Pochezach? - Мольер
-1     раздор! - Восток (Иуда)
-1     ЗАВТРА БРОШУ - Твои зелёные носки
-1     ЗАВТРА БРОШУ - Телеграм
-1     playingtheangel, Три дня дождя - Худшее во мне
-1     без обид - отстань
-1     YOUNG LARI, Rinus - Если ничего и не было
-1     пачкасигарет - Герой
-1     lissa - Мальборо
-1     Три дня дождя - Фелида
 1     Metallica - Nothing Else Matters
-1     Спектакль Джо - Портрет
+1     Слава КПСС, ЗАМАЙ - Antihypeintro
 1     Metallica - The Unforgiven
+1     Егор Не Помню, Морфинизм Пыльцы - Пепел сигареты
 1     Metallica - Enter Sandman
 1     КИССКОЛД - Гёрл
+1     Сметана band - Плохие манеры
 1     domiNo - Трюк
-1     Scott Bradlee’s Postmodern Jukebox, Haley Reinhart - Don't Speak
-1     longlost - I Hate Everything About You
-1     Мёртвые Дельфины - На моей луне
+1     кис-кис - падик
 1     playingtheangel, RORY - Последняя сигарета
 1     playingtheangel, RORY - Под разными одеялами
-1     SLAVA MARLOW - Снова я напиваюсь
-1     Everblack Melodies - Бесчувственный
 1     playingtheangel, RORY - Красиво лгать
-1     КОСМОНАВТОВ НЕТ - МЯТОЙ
-1     маяк - динамит
+1     РУБИ КОНцы! - Королева гранж
+1     Sagath, katanacss - Маяк
+1     FIZICA, Arlekinoooo - Принц иллюминатов
+1     FIZICA, SOBOLEVSKAYA - В хаосе парада
+1     Лали - Мама, отпусти
+1     Канги - Вали
+1     Ундервуд - Лавацца
+1     The Cog is Dead - Bad Guy
+1     Роки - На рогах (Пустая 2)
+1     Убей меня, Эйс! - Милая трагедия
+1     Melodicka Bros - We Drink Your Blood
+1     IRONTOM - When a Dickhead Dies
+1     MAX, bbno$ - Working For The Weekend
+1     Guitarrista de Atena - Fairy Tail Main Theme (From "Fairy Tail")
+1     Alina Gingertail - Waffentrager (From “WOT”)
+1     POORSTACY - Don't Look At Me
+1     билборды - Рисую кровью
+1     KONG. - Bad Guy
+1     fem.love - Мне звонили НЛО
+1     pyrokinesis - чапман ред
+1     Гости Гаррисона - Обещай
+1     IVOXYGEN - Focus
+1     MOTELBLVCK - Розовые кеды
+1     Markul - Лабиринт
+1     Drug Твоей Тёлки - Время уже четыре
+1     Markul - Episode 4
+1     Роки - Красавица не подарок
+1     Luverance - 321
+1     Markul - Episode 3
+1     The Cog is Dead - Bang!
+1     Markul - Syrena
+1     Ashbury Heights - Spectres from the Black Moss
+1     IVOXYGEN - it was September when i pushed you back
 1     SLAVA MARLOW - Человек
+1     пачкасигарет - Атланты
+1     FIZICA - Я хочу с тобой
+1     aikko, Роки - Не отдавай
+1     МОЛОДОСТЬ ВНУТРИ - Интро
+1     Måneskin, Iggy Pop - I WANNA BE YOUR SLAVE
+1     МОЛОДОСТЬ ВНУТРИ - Ночь в Токио
+1     FIZICA - Больше, чем BDSM
+1     МОЛОДОСТЬ ВНУТРИ - Мошпит Активатор
+1     МОЛОДОСТЬ ВНУТРИ - Малая
+1     Hahapoison - Keylogger
+1     The Rasmus, Apocalyptica - Venomous Moon
+1     ZillaKami - FROSTY
+1     Гости Гаррисона - Не грусти
+1     маяк - динамит
+1     Samaji - Любит тишину
+1     Port Avenue, 7ER0 - Ненавижу (Lanet)
+1     Colm R. McGuinness, Hans Zimmer - Hoist the Colours
+1     Три дня дождя - Фелида
+1     Zombie Americana - Propagate
+1     ЕГОР КРИД - PUSSY BOY
+1     Папин Олимпос - На сломанных каблуках
+1     VOSTOK - Welcome to the Show
+1     LUND - Out Of Time
+1     ЮГ 404 - Самолётики
+1     ЕГОР КРИД, Тимати - Гучи
+1     VULPES VULT! - Будет кровь!
+1     Blackmore's Night - Home Again
+1     пачкасигарет - Не С Тобой
 1     Nessa Barrett - keep me afraid
+1     пачкасигарет - Герой
 1     aikko - как всё устроено
 1     bbno$ - u mad!
-1     МОЛОДОСТЬ ВНУТРИ - Интро
-1     МОЛОДОСТЬ ВНУТРИ - Ночь в Токио
 1     20TOKENS - ОБИТО И РИН
-1     МОЛОДОСТЬ ВНУТРИ - Мошпит Активатор
 1     Des Rocs - Ruby with the Sharpest Lies
 1     Гости Гаррисона - Ядовит
-1     МОЛОДОСТЬ ВНУТРИ - Малая
 1     Гости Гаррисона - Я так молод и так зол
+1     lissa - Мальборо
+1     Neverlove - Электронка
+1     The Cog is Dead - Be Prepared (From "The Lion King")
+1     ONEDAY - Копируй
+1     ТЕППО - ГОЛОСА
+1     The Vaccines - Bandit
+1     Des Rocs - Hanging by a Thread
+1     Наше Последнее Лето - 410
+1     Added Color - Chains
+1     BoyWithUke - Toxic
+1     longlost - I Hate Everything About You
+1     Alpine Universe - Battles
+1     Мёртвые Дельфины - На моей луне
+1     SLAVA MARLOW - Снова я напиваюсь
+1     Everblack Melodies - Бесчувственный
+1     Sub Urban, Bella Poarch - INFERNO
+1     без обид - отстань
+1     YOUNG LARI, Rinus - Если ничего и не было
+1     КОСМОНАВТОВ НЕТ - МЯТОЙ
+1     МОЛОДОСТЬ ВНУТРИ - Мученик
 1     Juanes - La Camisa Negra
-1     SEREBRO - Мало тебя
-1     Alexey Omelchuk - Enter the Tunnels (Main Theme)
+1     МОЛОДОСТЬ ВНУТРИ - Душонка
+1     Patricia Kopatchinskaja, D. Kobyliansky, R. Spitzer, D. Dichtiar - Sieben Gedichte aus dem Quartettbuch: 3
+1     Родион Газманов - Гравитация
+1     Андрей Макаревич - Мой приятель художник
+1     Nancy Sinatra - Killing Me Softly with His Song
+1     Animal ДжаZ - Три полоски
+1     Dick Dale & His Del-Tones - Misirlou
+1     Ghost - Crucified
 1     Александр Иванов - Бледный бармен (Часть вселенной)
-1     Thousand Foot Krutch - Complicate You
+1     Sunrise Avenue - Girl Like You
 1     Panic! At The Disco - Far Too Young to Die
 1     Scott Bradlee’s Postmodern Jukebox - We Can't Stop
 1     Lustra - Scotty Doesn't Know (The Second Coming) - Bonus Track
@@ -1407,6 +1519,7 @@
 1     Buffalo Springfield - For What It's Worth
 1     Александр Иванов - Моя неласковая Русь
 1     Avicii - Wake Me Up
+1     Alexandre Desplat, The City of Prague Philharmonic Orchestra, Дмитрий Дмитриевич Шостакович, Paul Bateman - Jazz Suite No. 2: Waltz No. 2
 1     Scott Bradlee’s Postmodern Jukebox - Get Lucky
 1     Машина времени - Спускаясь к великой реке
 1     Машина времени - Мой друг (Лучше всех играет блюз)
@@ -1414,41 +1527,45 @@
 1     Машина времени - Скованные одной цепью
 1     Our Last Night - Fate
 1     The Cog is Dead - Danger On the Dance Floor
-1     David Bowie - Time
-1     Егор Летов - Всё идёт по плану
-1     АнимациЯ - Ванька
-1     Scott Bradlee’s Postmodern Jukebox - Thrift Shop
-1     Scott Bradlee’s Postmodern Jukebox - Die Young
-1     Fall Out Boy - The Phoenix
-1     Sunrise Avenue - Girl Like You
-1     Ghost - Crucified
-1     Skillet, Reese Reynolds - Sick of It
-1     Dick Dale & His Del-Tones - Misirlou
+1     Louis Armstrong, Bing Crosby - Now You Has Jazz
+1     Hanni El Khatib - Nobody Move
+1     Mötley Crüe - If I Die Tomorrow
+1     The Ink Spots - Address Unknown
+1     Saint Motel - My Type
+1     Renato Carosone - Tu Vuo' Fà L'americano
+1     Robin Schulz, Lilly Wood & The Prick - Prayer in C
+1     Чиж & Co - Фантом
+1     Звери - Капканы
+1     Звери - До скорой встречи!
 1     Звери - Южная ночь
 1     Александр Иванов - Чёрная шуба, белый Линкольн
+1     Кафе - Товарищ сержант
 1     Jean-Michel Jarre - Oxygene, Pt. 1
 1     Sia - Chandelier
 1     Three Days Grace - Painkiller
 1     Maxence Cyrin - Where Is My Mind?
 1     KONGOS - Come with Me Now
-1     My Chemical Romance - Na Na Na (Na Na Na Na Na Na Na Na Na)
 1     Сектор Газа - Бомж
 1     Сектор Газа - Life
 1     Сектор Газа - Лирика
 1     Nancy Sinatra - Flowers On The Wall
 1     Shakira - Dare (La La La)
 1     Rixton - Me and My Broken Heart
+1     Vanilla Sky - Zvenit Yanvarskaya Vyuga
 1     Pharrell Williams - Happy
 1     Mike Oldfield - Nuclear
-1     АНТИМАТЕРИЯ - Секунда до старта
-1     Hanni El Khatib - Nobody Move
-1     The Clash - London Calling
-1     Nancy Sinatra - Killing Me Softly with His Song
-1     Animal ДжаZ - Три полоски
-1     Alex Hepburn - Under
-1     The Rasmus - Last Waltz
-1     Alexey Omelchuk - Campire Strong - Part 1
+1     David Bowie - Time
+1     Егор Летов - Всё идёт по плану
+1     Scott Bradlee’s Postmodern Jukebox - Thrift Shop
+1     Scott Bradlee’s Postmodern Jukebox - Die Young
+1     Green Day - Loss of Control
+1     Green Day - Sweet 16
+1     The Andrews Sisters - Bei mir bist du schön
+1     Peggy Lee - You Deserve
+1     Billy Talent - Surprise Surprise
+1     Get Scared - Keep Myself Alive
 1     Oldelaf - La jardinière de légumes
+1     Train - 50 Ways to Say Goodbye
 1     The Offspring - Secrets From The Underground
 1     Parov Stelar - Booty Swing
 1     Linkin Park - SKIN TO BONE
@@ -1464,41 +1581,41 @@
 1     Katzenjammer - A Bar in Amsterdam
 1     Camouflage - Love Is A Shield
 1     Royal Bliss - I Love You
-1     Lana Del Rey - Blue Jeans
-1     Mötley Crüe - If I Die Tomorrow
-1     Gravitonas - Lucky Star
-1     Panic! At The Disco - Mercenary
-1     Pink Floyd - What Do You Want From Me
-1     Pink Floyd - Cluster One
-1     Train - 50 Ways to Say Goodbye
-1     Get Scared - Keep Myself Alive
+1     Green Day - Rusty James
+1     Green Day - Angel Blue
+1     Green Day - Fell for You
+1     Local H - Hands On The Bible
+1     Fall Out Boy - The Phoenix
+1     Alex Hepburn - Under
+1     Skillet, Reese Reynolds - Sick of It
+1     The Rasmus - Last Waltz
 1     Bring Me The Horizon - Can You Feel My Heart
-1     Billy Talent - Surprise Surprise
 1     Pupo - Gelato Al Cioccolato
 1     Kavinsky - Nightcall
 1     Bing Crosby - The Pessimistic Character
 1     Hollywood Undead - Another Way Out
 1     The Real Tuesday Weld - The Ugly And The Beautiful
-1     Local H - Hands On The Bible
+1     Rockabye Baby! - We Will Rock You
+1     Green Day - Troublemaker
 1     Demis Roussos - From Souvenir to Souvenir
 1     Pixies - Where Is My Mind?
 1     Tribal Ink - Living On A Lie
+1     Kenny G, Carolee Mayne, Bronn Journey - Still Still Still
+1     Олег Анофриев - Спят усталые игрушки
 1     My Chemical Romance - The Light Behind Your Eyes
+1     Fred Astaire - Puttin' On the Ritz
 1     Rihanna - Diamonds
 1     Muse - Panic Station
 1     Сплин - Летела жизнь
-1     Green Day - Troublemaker
-1     Green Day - Fell for You
-1     Green Day - Angel Blue
-1     Green Day - Rusty James
-1     Green Day - Loss of Control
-1     Green Day - Sweet 16
-1     The Andrews Sisters - Bei mir bist du schön
-1     Peggy Lee - You Deserve
-1     Звери - До скорой встречи!
-1     Звери - Капканы
-1     Чиж & Co - Фантом
+1     Hot Hot Heat - Elevator
+1     Maroon 5 - Animals
+1     Lumen - Не зову
+1     Panic! At The Disco - Victorious
+1     Kaleida - Detune
+1     Belasco - Chloroform
+1     Олег Анофриев - Есть только миг
 1     Matthew Perryman Jones - Living in the Shadows
+1     Panic! At The Disco - Crazy = Genius
 1     Sia - Cheap Thrills
 1     Swing City - I Wanna Be Like You
 1     Профессор Лебединский - Я Убью Тебя, Лодочник
@@ -1511,92 +1628,94 @@
 1     Animal ДжаZ - Ангел
 1     Nautilus Pompilius - Взгляд с экрана (Ален Делон)
 1     The Brobecks - Visitation Of The Ghost
+1     Марко Поло - Королевы и короли
+1     Максим Леонидов - Не дай ему уйти
+1     Браво - Это за окном рассвет
 1     Willy William - Ego
 1     Полина Гагарина - Спектакль окончен
 1     ЛСП - Сучка
-1     Panic! At The Disco - Victorious
-1     Мария Чайковская - В пятницу
-1     Anacondaz - Не моё
-1     Paddy And The Rats - My Sharona
-1     L.E.J - Summer 2014
-1     Rob Thomas - I Think We'd Feel Good Together
-1     Panic! At The Disco - Crazy = Genius
-1     Олег Анофриев - Есть только миг
-1     Robin Schulz, Lilly Wood & The Prick - Prayer in C
-1     Taco, Irving Berlin - Puttin' On The Ritz
-1     Дима Билан - Невозможное возможно
+1     The Beatles - All My Loving
+1     The Beatles - Girl
+1     Fool's Garden - Lemon Tree
 1     Леприконсы - Хали-гали, паратрупер
+1     Алла Пугачёва - Позови меня с собой
+1     Агата Кристи - Трансильвания
+1     Scott McKenzie - San Francisco
+1     Imagine Dragons, Wiz Khalifa, Lil Wayne, Ty Dolla $ign, X Ambassadors, Logic - Sucker For Pain
+1     The Beatles - All You Need Is Love
+1     KONGOS - Hey You, Yeah You
+1     Dead Poet Society - Animation
+1     Король и Шут - Два вора и монета
+1     Set It Off - Hypnotized
+1     Дима Билан - Невозможное возможно
 1     Billy Talent - Louder Than the DJ
+1     Arabesque - Midnight Dancer
+1     Елена Камбурова - Грустная песня миссис Дарлинг
 1     77 Bombay Street - Clown
 1     Evans Blue - End of Me
 1     KONGOS - Take It From Me
 1     КИНО - Проснись
+1     КИНО - Восьмиклассница
 1     Didier Marouani, Space - Souvenir from Rio
 1     Fitz & The Tantrums - HandClap
 1     Plastika - Снятся
 1     Стас Пьеха - На ладони линия
-1     The Fratellis - Jeannie Nitro
-1     The Fratellis - She's Not Gone yet but She's Leaving
-1     Fool's Garden - Lemon Tree
-1     The Beatles - Let It Be
-1     The Beatles - Girl
-1     The Beatles - All My Loving
-1     Kaleida - Detune
-1     Van Canto - Time And Time Again
-1     Belasco - Chloroform
-1     Reckless Love - Monster
-1     Ундервуд - Очень хочется в Советский Союз
-1     Halsey - New Americana
-1     Агата Кристи - Моряк
-1     Агата Кристи - Два корабля
+1     Arielle Dombasle, The Hillbilly Moon Explosion - Long Way Down
+1     Мария Чайковская - В пятницу
+1     DIGIMORTAL - Сто ночей
+1     Anacondaz - Не моё
+1     АнимациЯ - Герои
+1     АнимациЯ - Журавли
+1     Three Days Grace - Landmine
+1     The Moog - You Raised a Vampire
+1     Lost Frequencies - Are You with Me
+1     Like A Storm - Gangsters Paradise
+1     twenty one pilots - Fairly Local
 1     Kaleida - Think
 1     Jesus - Introduccción
 1     Major Lazer, DJ Snake, MØ - Lean On
 1     Sum 41 - Still Waiting
-1     Aaron Smith, Krono, Luvli - Dancin
+1     Aaron Smith, Luvli, Krono - Dancin
 1     Raney Shockne, Elizaveta Khripounova, Nick Stoubis - Grey Warden
 1     Fall Out Boy - Novocaine
 1     Fall Out Boy - Jet Pack Blues
 1     Shantel - 13th Shake
-1     Моральный кодекс - Первый снег
+1     Gorillaz - Clint Eastwood
+1     Борис Гребенщиков - Не было такой
 1     The Animals - The House of the Rising Sun
 1     Teodor Currentzis, Жан-Филипп Рамо - Les Indes galantes, RCT 44, Nouvelle entrée, Les sauvages, Scène VI: Rondeau - Duo et choeur "Forêts paisibles"
 1     Imagine Dragons - Warriors
 1     Элизиум - Чёрное знамя
 1     Chinawoman - Woman Is Still a Woman
-1     DIGIMORTAL - Сто ночей
-1     Lumen - Не зову
-1     Maroon 5 - Animals
-1     Hot Hot Heat - Elevator
-1     Saint Motel - My Type
-1     Renato Carosone - Tu Vuo' Fà L'americano
-1     twenty one pilots - Fairly Local
-1     Like A Storm - Gangsters Paradise
-1     Lost Frequencies - Are You with Me
-1     twenty one pilots - We Don't Believe What's on TV
+1     Kaleida - Take Me To The River
+1     Алла Пугачёва, Микаэл Леонович Таривердиев - Мне нравится, что вы больны не мной
+1     ЖЩ - Запал
+1     Saint Asonia - Blow Me Wide Open
+1     Paddy And The Rats - My Sharona
+1     L.E.J - Summer 2014
+1     Ундервуд - Очень хочется в Советский Союз
+1     Halsey - New Americana
+1     Агата Кристи - Моряк
+1     Агата Кристи - Два корабля
 1     Агата Кристи - Тоска без конца
 1     Агата Кристи - Истерика
 1     Robin Schulz, Francesco Yates - Sugar
 1     Машина времени - Однажды мир прогнётся под нас
-1     Saint Asonia - Blow Me Wide Open
 1     Thousand Foot Krutch - War of Change
+1     ЖЩ - Небо как тогда
 1     Thousand Foot Krutch - Courtesy Call
 1     Matthew Morrison - We Own The Night
 1     twenty one pilots - Not Today
+1     twenty one pilots - We Don't Believe What's on TV
 1     twenty one pilots - Polarize
-1     The Moog - You Raised a Vampire
 1     twenty one pilots - Doubt
 1     twenty one pilots - The Judge
 1     twenty one pilots - Heavydirtysoul
 1     twenty one pilots - Ride
 1     ЖЩ - Имя
-1     ЖЩ - Небо как тогда
-1     Микаэл Леонович Таривердиев, Алла Пугачёва - Мне нравится, что вы больны не мной
-1     Kaleida - Take Me To The River
-1     Three Days Grace - Landmine
-1     Queen - The Show Must Go On
-1     David Guetta, Sia - Titanium
-1     Starlite Unlimited - This Is Halloween (From "The Nightmare Before Christmas")
+1     Lana Del Rey - Blue Jeans
+1     Gravitonas - Lucky Star
+1     Алла Пугачёва - А знаешь, всё ещё будет
 1     Shivaree - Idiot Waltz
 1     Shivaree - Oh, No
 1     Shivaree - Cannibal King
@@ -1607,22 +1726,26 @@
 1     The Beach Boys - Kokomo
 1     Depeche Mode - Little 15
 1     Moby - Natural Blues
+1     Survivor - Eye of the Tiger
 1     Sunrise Avenue - Fairytale Gone Bad
 1     Nancy Sinatra, Frank Sinatra - Somethin' Stupid
 1     David Guetta - Love Don't Let Me Go
 1     Stabilo - Rain Awhile
 1     Duran Duran - Ordinary World
-1     Duran Duran - Ordinary World
+1     Ten Years After - I'd Love To Change The World
 1     The Doors - People Are Strange
 1     The Doors - Break on Through (To the Other Side)
-1     Green Day - Misery
 1     The Cab - One Of THOSE Nights
 1     Simple Plan - I Can Wait Forever
 1     Alphaville - Big in Japan
+1     Muse - Map of the Problematique
+1     Linkin Park - Somewhere I Belong
 1     Shivaree - I Don't Care
 1     Shivaree - Daring Lousy Guy
-1     A Perfect Circle - The Outsider
+1     Panic! At The Disco - Mercenary
 1     Shivaree - Pimp
+1     A Perfect Circle - The Outsider
+1     Muse - I Belong To You
 1     Skillet - Dead Inside
 1     Skillet - Hero
 1     Skillet - Monster
@@ -1644,20 +1767,22 @@
 1     Shivaree - Queen-Sized Tomb
 1     Midge Ure - The Man Who Sold The World
 1     Robbie Williams - Supreme
-1     Muse - Map of the Problematique
 1     Linkin Park - Numb
 1     Linkin Park - What I've Done
 1     Serj Tankian - Sky Is Over
+1     R.E.M. - Losing My Religion
 1     Metallica - The Unforgiven II
 1     The Moody Blues - Melancholy Man
 1     The Righteous Brothers - Unchained Melody
 1     Metallica - Until It Sleeps
 1     Metallica - Mama Said
 1     The Police - Every Breath You Take
+1     Army Of Lovers - Crucified
 1     ABBA - The Winner Takes It All
 1     Cream - White Room
 1     Elton John - I'm Still Standing
 1     Eminem - The Way I Am
+1     Eminem, Dido - Stan
 1     Nina Simone - Don't Let Me Be Misunderstood
 1     Bon Jovi - Livin' On A Prayer
 1     Shades Apart - Stranger By The Day
@@ -1671,9 +1796,9 @@
 1     Chris Cornell - You Know My Name
 1     Metallica, Marianne Faithfull - The Memory Remains
 1     Muse - Falling Away With You
-1     Muse - Butterflies And Hurricanes
-1     Elmore James - Dust My Broom
-1     R.E.M. - Losing My Religion
+1     Muse - Apocalypse Please
+1     Motörhead - Overkill
+1     Michael Bublé - Sway
 1     Paramore - crushcrushcrush
 1     Skillet - Whispers in the Dark
 1     Skillet - Whispers in the Dark
@@ -1682,26 +1807,36 @@
 1     Shinedown - 45
 1     Lady Gaga - Alejandro
 1     La Roux - Tigerlily
-1     Motörhead - Overkill
-1     Nirvana - Smells Like Teen Spirit
+1     Elmore James - Dust My Broom
 1     Metallica - The Unforgiven III
+1     Muse - Butterflies And Hurricanes
 1     Metallica - The Day That Never Comes
 1     Metallica - I Disappear
 1     Fall Out Boy, John Mayer - Beat It
+1     Vacuum - I Breathe
 1     Rihanna, Jay-Z - Umbrella
 1     Metallica - Die, Die My Darling
 1     Metallica - Turn the Page
 1     Metallica - Sad But True
 1     Metallica - Enter Sandman
-1     Muse - I Belong To You
+1     Nirvana - Smells Like Teen Spirit
 1     Muse - Can't Take My Eyes off You
-1     Ace of Base - Happy Nation
+1     Muse - Megalomania
+1     Muse - Citizen Erased
+1     Guy Mitchell - Heartaches By The Number
+1     Bruno Mars - Grenade
+1     My Chemical Romance - Na Na Na (Na Na Na Na Na Na Na Na Na)
+1     Queen - We Are The Champions
+1     Queen - Bohemian Rhapsody
 1     Queen - Don't Stop Me Now
+1     Чёрный Обелиск - Стена
 1     Алиса - Солнце на блюдце
 1     The Rolling Stones - Paint It Black
 1     Вольфганг Амадей Моцарт - Requiem: Lacrimosa
+1     ДДТ - Капитан Колесников
 1     Take That - SOS
 1     The Animals - House of the Rising Sun
+1     Bing Crosby, Grace Kelly - True Love (From "High Society")
 1     Nancy Sinatra, Lee Hazlewood - Summer Wine
 1     Город 312 - Фонари
 1     Зимовье зверей - Джин и тоник
@@ -1712,21 +1847,22 @@
 1     Pitbull, T-Pain - Hey Baby (Drop It to the Floor)
 1     Escape The Fate - Issues
 1     Nomy - Cocaine
-1     Гимны - Государственный гимн Украины
-1     Guy Mitchell - Heartaches by the Number
-1     Empyr - New Day
-1     Katy Perry - Last Friday Night (T.G.I.F.)
-1     Katy Perry - E.T.
-1     Smash Mouth - I'm A Believer
-1     Чёрный Обелиск - Стена
-1     Queen - Bohemian Rhapsody
-1     Muse - Megalomania
-1     Queen - Another One Bites The Dust
+1     Bruno Mars - Runaway Baby
+1     Bad Boys Blue - You're a Woman
+1     Scorpions - Dust in the Wind
+1     Blackmore's Night - Under A Violet Moon
+1     Pink Floyd - What Do You Want From Me
+1     Pink Floyd - Cluster One
+1     Queen - The Show Must Go On
+1     David Guetta, Sia - Titanium
+1     Starlite Unlimited - This Is Halloween (From "The Nightmare Before Christmas")
+1     Ace of Base - Happy Nation
 1     Poets Of The Fall - Where Do We Draw the Line
 1     Poets Of The Fall - Carnival of Rust
 1     Poets Of The Fall - Late Goodbye
-1     Blackmore's Night - Under A Violet Moon
+1     Blackmore's Night - Morning Star
 1     Franz Ferdinand - Take Me Out
+1     Britney Spears - Till the World Ends
 1     Foster The People - Pumped Up Kicks
 1     Queen - Mustapha
 1     Fireal - Ariel
@@ -1736,66 +1872,75 @@
 1     Мумий Тролль - Забавы
 1     The Pretty Reckless - You
 1     The Pretty Reckless - Just Tonight
-1     Britney Spears - Till the World Ends
-1     Scorpions - Dust in the Wind
-1     Bad Boys Blue - You're a Woman
-1     Bruno Mars - Runaway Baby
-1     Bruno Mars - Grenade
-1     My Chemical Romance - Na Na Na (Na Na Na Na Na Na Na Na Na)
-1     Queen - We Are The Champions
-1     Dana Glover - It Is You (I Have Loved)
-1     Halfcocked - Bad Reputation
-1     t.A.T.u. - Нас не догонят
-1     Neil Diamond - If You Go Away
+1     Queen - The Millionaire Waltz
+1     Гимны - Государственный гимн Украины
+1     Empyr - New Day
+1     Revolver - Calm Down
+1     Katy Perry - Last Friday Night (T.G.I.F.)
+1     Paris France Transit - Voices Of Jupiter
+1     Paris France Transit - Paris France
+1     Didier Marouani - Space Opera Part 3
+1     Shakira - Whenever, Wherever
 1     Joe Dassin - Et si tu n'existais pas
 1     Joe Dassin - Salut
 1     Joe Dassin - Les Champs-Élysées
-1     Andy Williams - Music to Watch Girls By
 1     The Offspring - You're Gonna Go Far, Kid
-1     Bob Dylan - Lay, Lady, Lay
+1     Bob Dylan - Lay Lady Lay
 1     Shakira, Wyclef Jean - Hips Don't Lie
-1     Destiny's Child - Survivor
 1     Alan Jackson - Remember When
 1     Europe - The Final Countdown
 1     Modern Talking - Brother Louie
 1     Christina Aguilera - Fighter
 1     Nефть - Крылья
 1     Muse - Neutron Star Collision (Love is Forever)
+1     Ария - Воля и разум
 1     Ария - Ночь короче дня
+1     Ария - Грязь
 1     Franz Ferdinand - The Lobster Quadrille
 1     Billy Talent - The Dead Can't Testify
 1     Billy Talent - Pocketful of Dreams
 1     Marilyn Manson - This Is Halloween
-1     Revolver - Calm Down
-1     Muse - Citizen Erased
-1     Shakira - Whenever, Wherever
-1     Didier Marouani - Space Opera Part 3
-1     Paris France Transit - Paris France
-1     The Offspring - Pretty Fly (For a White Guy)
+1     Space - Running In The City
+1     Didier Marouani - Space Opera Part 4 (Save Our Soul)
+1     Ricky Martin - Livin' la Vida Loca
+1     Helloween - Follow The Sign
+1     Katy Perry - E.T.
+1     Smash Mouth - I'm A Believer
+1     Dana Glover - It Is You (I Have Loved)
+1     Halfcocked - Bad Reputation
+1     t.A.T.u. - Нас не догонят
+1     Neil Diamond - If You Go Away
+1     Hollywood Undead - Everywhere I Go
 1     Hollywood Undead - Undead
 1     David Bowie - Space Oddity
 1     The Rasmus - Night After Night (Out Of The Shadows)
-1     Helloween - Follow The Sign
 1     Земфира - ∞
+1     The Alan Parsons Project - The Turn Of A Friendly Card
 1     Земфира - снег
 1     Lenka - Trouble Is A Friend
 1     Escala, Slash - Kashmir
 1     Escala - Requiem For A Tower
 1     Modern Talking - Cheri Cheri Lady
-1     Paris France Transit - Voices Of Jupiter
-1     The Offspring - The Kids Aren't Alright
+1     The Brothers Four - Greenfields
 1     Britney Spears - If U Seek Amy
-1     Britney Spears - ...Baby One More Time
+1     Disco Fever - Baby One More Time
 1     Kasabian - Fire
 1     The Hoosiers - Killer
-1     The Alan Parsons Project - The Turn Of A Friendly Card
-1     Ricky Martin - Livin' la Vida Loca
-1     Didier Marouani - Space Opera Part 4 (Save Our Soul)
-1     Space - Running In The City
-1     Set It Off - Hypnotized
-1     Король и Шут - Дурак и молния
-1     Король и Шут - Два вора и монета
+1     Алла Пугачёва - Миллион алых роз
+1     Алла Пугачёва - Звёздное лето
+1     МОЛОДОСТЬ ВНУТРИ, pyrokinesis - Мёртвая тишина
+1     Cherry Animals - Safe House
+1     The Meto - Шут
+1     Hawaiian Sadness, katanacss - На щите
+1     Michele Garruti - Gabriel's Lullaby
+1     МУККА - Отдай кота
+1     МУККА - Не горят
+1     FIZICA - Моя любовь просто космос
+1     Samaji - Фокус
+1     OneRepublic - Rescue Me
+1     Shocking Blue - Long And Lonesome Road
 1     Shivaree - Half On A Baby
+1     найтивыход, Папин Олимпос - Телу тоже больно
 1     Джизус - Девочка-мечта
 1     Oliver Tree, RAC - Hurt
 1     нехудожник. - Грёзы
@@ -1808,20 +1953,23 @@
 1     Billie Eilish - my strange addiction
 1     Billie Eilish - bad guy
 1     Папин Олимпос - Тёмно-оранжевый закат
-1     Louis Armstrong, Bing Crosby - At the Jazzband Ball
-1     Роки - На моих руках
-1     playingtheangel, aikko, РЭЙДИ - Таблетки
-1     Lil Nas X - Old Town Road
-1     Король и Шут - Воспоминания о былой любви
-1     Король и Шут - Проклятый старый дом
-1     Король и Шут - Хозяин леса
-1     Король и Шут - Утопленник
-1     Король и Шут - Валет и дама
-1     найтивыход, Папин Олимпос - Телу тоже больно
-1     Shocking Blue - Long And Lonesome Road
+1     хмыров - Вагон
+1     Cherry Animals - Highway of Illusions
+1     Daniel Spaleniak, Kacha Kowalczyk - Lonely Nights
+1     Dear Sherlock - Cage
+1     aikko, twoxseven - метелица
+1     5 Seconds of Summer - Teeth
+1     Drug Твоей Тёлки - Бойфренд
+1     Poets Of The Fall - My Dark Disquiet
+1     grandson - Rock Bottom
+1     VULPES VULT! - Клоун
+1     Shivaree - It Got All Black
+1     Shivaree - The Fat Lady Of Limbourg
+1     Shivaree - I Close My Eyes
 1     Shivaree - New Casablanca
-1     OneRepublic - Rescue Me
+1     Дискорд - Гори-гори
 1     INSPACE - Собираю гильзы
+1     Asper X - Локус генома
 1     Nico Collins - Alone
 1     katanacss - Неудачник
 1     katanacss, ТЕППО - Булавки
@@ -1832,107 +1980,63 @@
 1     Полина Гагарина - Кукушка
 1     МОЛОДОСТЬ ВНУТРИ - Kapellmeister
 1     Dear Sherlock - Bunny
-1     Dear Sherlock - Cage
-1     Cherry Animals - Highway of Illusions
-1     Cherry Animals - Safe House
-1     хмыров - Вагон
-1     The Meto - Шут
-1     Hawaiian Sadness, katanacss - На щите
-1     МУККА - Отдай кота
-1     МУККА - Не горят
-1     FIZICA - Моя любовь просто космос
-1     Samaji - Фокус
-1     Максим Свобода - Воздух на сигареты
-1     Нервы - Кому ты звонишь
-1     Нервы - Спи спокойно
-1     saypink! - Птицей на юг
+1     Роки - На моих руках
+1     playingtheangel, РЭЙДИ, aikko - Таблетки
+1     АнимациЯ - Happy End
+1     Король и Шут - Воспоминания о былой любви
+1     Dj Viral Mix - Cradles Remix
+1     Night Club - Scary World
+1     JAXSON GAMBLE - New Cold War
+1     The Growlers - Vacant Lot
+1     Dругой Ветер - Перегрызи поводок
+1     Dave Not Dave - Cold Blood
+1     The Meto - Бей, беги
+1     The Meto - Лекарство от безумия
+1     The Meto - Веди меня
 1     Радиопомехи - Дура
+1     Дайте танк (!) - Мы
 1     MORGENSHTERN, ЛСП - Зеленоглазые деффки!
 1     aikko, Earl Dany-Grey - Жалко себя
+1     And One - Love You to the End
 1     And One - Military Fashion Show
-1     And One - Playing Dead
-1     And One - Seven
 1     СКОРОСТЬ - До потери пульса
+1     Вундеркинды, Иоганнес Брамс - Колыбельная Брамс
 1     этажность - Интро
 1     Solar Fake - A Bullet Left for You
 1     Muse - The Void
 1     Muse - Algorithm
 1     I DONT KNOW HOW BUT THEY FOUND ME - Social Climb
 1     pyrokinesis - Помогите Элли
-1     Нервы - Так, как надо
-1     Daniel Spaleniak, Kacha Kowalczyk - Lonely Nights
-1     Daniel Spaleniak - Night
-1     Daniel Spaleniak - Liar's Blues
-1     Franz Ferdinand - Jacqueline
-1     Markul - Миражи
-1     Markul - Компас
-1     Arctic Monkeys - Brianstorm
-1     The Meto - Веди меня
-1     The Meto - Лекарство от безумия
-1     The Meto - Бей, беги
-1     Джизус - На моих ладонях
-1     saypink! - Вспоминай
+1     Cold In May - Kill Yourself With Pain
+1     Cold In May - Remember Me
+1     Millencolin - Nothing
 1     нехудожник. - Не выключай свет
+1     Король и Шут - Проклятый старый дом
+1     Король и Шут - Хозяин леса
+1     Король и Шут - Утопленник
+1     Король и Шут - Валет и дама
+1     SEREBRO - Мало тебя
+1     Максим Свобода - Воздух на сигареты
+1     Нервы - Кому ты звонишь
+1     Нервы - Спи спокойно
+1     saypink! - Птицей на юг
+1     saypink! - Вспоминай
 1     НРАВ - Страх
+1     Tardigrade Inferno - We Are Number One
 1     STED.D - однажды мне сказали
 1     GuiB - Caligraphie chinoises
 1     I Hate Kate - Outta My Head
 1     I Hate Kate - I'm In Love With a Sociopath
 1     ЗАВТРА БРОШУ - Палёные кеды бьют по лужам
 1     The Score - Under The Pressure
+1     Джизус - На моих ладонях
 1     Джизус, FLESH - Золото
-1     Dave Not Dave - Cold Blood
+1     The Apex Theory - Apossibly
 1     The Meto - Хозяйка дома снов
-1     Tardigrade Inferno - We Are Number One
-1     Millencolin - Nothing
-1     Cold In May - Remember Me
-1     Cold In May - Kill Yourself With Pain
-1     Dj Viral Mix - Cradles Remix
-1     Night Club - Scary World
-1     JAXSON GAMBLE - New Cold War
-1     The Growlers - Vacant Lot
-1     Дискорд - Гори-гори
-1     Shivaree - I Close My Eyes
-1     Queen - I Want To Break Free
-1     Король и Шут - Выход судьи (Ария судьи)
-1     katanacss - ты думал, это всё
-1     MORGENSHTERN, Frame Tamer - КРАСНОЕ ВИНО ФРИСТАЙЛ
-1     Green Day - Oh Yeah!
-1     Комуто Херовато, dierz - Наедине
-1     The Blue Notes - Evil Morty Theme
-1     Asper X - Демоны города Икс
-1     Дом Кукол - Космонавтская
-1     Alan Walker, Ava Max - Alone, Pt. II
-1     David Bowie - Saviour Machine
-1     Джизус - Сияние неба не видно глазами
-1     Джизус - Я познал себя
+1     Обстоятельства - В моих глазах
+1     DEEP-EX-SENSE - Некроморф
+1     Green Day - Father of All...
 1     Джизус - Я не хочу стать твоим кумиром
-1     yuni. - День дешёвого искусства
-1     PALC, Fэrctak - Тараканы
-1     хмыров - В совершенно пустой квартире
-1     Anacondaz, Макс Гирко - Иди за второй
-1     TERNOVOY - Бессонница
-1     Соседи Стерпят - Влюбилась (руки на шее)
-1     SLAVA MARLOW - Отправьте это Моргенштерну
-1     DEEP-EX-SENSE - Ветер перемен
-1     saypink!, Repentov - Мосты
-1     Король и Шут - Смерть на балу (Ария солиста и Тодда)
-1     Король и Шут - На краю (Последняя ария Тодда)
-1     Shivaree - The Fat Lady Of Limbourg
-1     FIZICA - Маскарад
-1     Mathbonus - Editors
-1     Радиопомехи - Лучший друг
-1     Радиопомехи - Мальчик
-1     МИНУС18 - Одни
-1     В'ячеслав Кукоба - Кабанчик
-1     20TOKENS - Девочка-убийца
-1     ЗАВТРА БРОШУ - Перис Хилтон
-1     Нервы - Укачу
-1     нехудожник. - Записки мертвеца
-1     Коrsика - Танцуй
-1     ЗАВТРА БРОШУ - Ну зачем же такая любовь?
-1     Три дня дождя - Малышка рок-н-ролл
-1     Дайте танк (!) - Люди
 1     Green Day - I Was a Teenage Teenager
 1     Green Day - Meet Me on the Roof
 1     ЖЩ - Когда я умру
@@ -1941,46 +2045,51 @@
 1     katanacss - Такой же, как ты
 1     katanacss - О свободе
 1     katanacss - Что от меня останется
-1     saypink! - Девочкам
-1     saypink! - На слезах танцуй
-1     пачкасигарет - Кролик
-1     Port Avenue - Антибиотик
-1     Labrinth - Formula
-1     Pavel Kempel, Kempel - Танцуй
-1     Maroon 5 - Memories
-1     Port Avenue - Панк
-1     Port Avenue - Памятник ревности
-1     SAINt JHN - Roses
-1     Ногу свело! - Я шагаю по Москве
-1     Aurelio Voltaire - When You're Evil
-1     Aurelio Voltaire, Alissa White-Gluz - Leaves in the Stream
+1     FIZICA - Маскарад
+1     Король и Шут - На краю (Последняя ария Тодда)
+1     Король и Шут - Выход судьи (Ария судьи)
+1     Король и Шут - Смерть на балу (Ария солиста и Тодда)
+1     katanacss - ты думал, это всё
+1     MORGENSHTERN, Frame Tamer - КРАСНОЕ ВИНО ФРИСТАЙЛ
+1     Green Day - Oh Yeah!
+1     Комуто Херовато, dierz - Наедине
+1     Molchat Doma - Клетка
+1     The Blue Notes - Evil Morty Theme
+1     Asper X - Демоны города Икс
+1     Дом Кукол - Космонавтская
+1     Alan Walker, Ava Max - Alone, Pt. II
+1     David Bowie - Saviour Machine
+1     Джизус - Сияние неба не видно глазами
+1     Дайте танк (!) - Люди
+1     Три дня дождя - Малышка рок-н-ролл
+1     ЗАВТРА БРОШУ - Ну зачем же такая любовь?
+1     Alexey Omelchuk - Enter the Tunnels (Main Theme)
+1     Ленинград - Экспонат
+1     Palaye Royale - Little Bastards
+1     OneRepublic - Better Days
+1     losttoyland - Тишина
+1     БАЗАР - Классическая музыка
+1     IRONTOM - Down for Whatever
+1     Alexey Omelchuk - The Farewell
+1     Alexey Omelchuk - Into Sunset
+1     Alan Walker, Ruben - Heading Home
+1     Одда - Не проходит
+1     Alexey Omelchuk - Campire Strong - Part 1
+1     Коrsика - Танцуй
+1     Mathbonus - Editors
+1     Радиопомехи - Лучший друг
+1     Радиопомехи - Мальчик
+1     Три дня дождя - Мои друзья
+1     МИНУС18 - Одни
+1     В'ячеслав Кукоба - Кабанчик
+1     20TOKENS - Девочка-убийца
+1     ЗАВТРА БРОШУ - Перис Хилтон
+1     Нервы - Укачу
+1     нехудожник. - Записки мертвеца
+1     Джизус - Я познал себя
+1     yuni. - День дешёвого искусства
 1     Ногу свело! - Хуй
-1     Green Day - Father of All...
-1     DEEP-EX-SENSE - Некроморф
-1     Обстоятельства - В моих глазах
-1     aikko, twoxseven - метелица
-1     5 Seconds of Summer - Teeth
-1     Drug Твоей Тёлки - Бойфренд
-1     Poets Of The Fall - My Dark Disquiet
-1     grandson - Rock Bottom
-1     VULPES VULT! - Клоун
-1     хмыров - Коллектор
-1     Shivaree - It Got All Black
-1     Папин Олимпос - Я удалю тебя из друзей
-1     ШАРЫ - Дом под снос
-1     Ice Nine Kills, Matt Heafy - Stabbing In The Dark
-1     МУККА - Втыкать в потолок
-1     DenDerty - Я хочу чтоб ты стреляла по своим
-1     Ундервуд - Разведка с мудаками
-1     найтивыход - Луна
-1     КОСМОНАВТОВ НЕТ - КРИВОРУКИЕ
-1     КОСМОНАВТОВ НЕТ, Папин Олимпос - НЕ ВЫВОЖУ
-1     КОСМОНАВТОВ НЕТ - ТОКОМ
-1     Твин Пикс - По шанхайским подвалам
-1     МУККА - Не та
-1     МУККА - Медленно
-1     LXST CXNTURY, Kingpin Skinny Pimp - Odium
-1     Пётр Налич - Gitar
+1     PALC, Fэrctak - Тараканы
 1     playingtheangel, STED.D - Exotic
 1     playingtheangel - Страйк-аут
 1     playingtheangel - У каждого своя
@@ -1990,11 +2099,62 @@
 1     Green Day - Fire, Ready, Aim
 1     The Limba - Смузи
 1     МОЛОДОСТЬ ВНУТРИ - Пиноккио
-1     Arctic Monkeys - I Wanna Be Yours
-1     aikko - Нечего сказать
-1     KONGOS - Hey You, Yeah You
+1     Пётр Налич - Gitar
+1     Ice Nine Kills, Matt Heafy - Stabbing In The Dark
+1     ШАРЫ - Дом под снос
+1     Папин Олимпос - Я удалю тебя из друзей
+1     Labrinth - Formula
+1     playingtheangel, Три дня дождя, МУККА - Бедная юность
+1     Pavel Kempel, Kempel - Танцуй
+1     Maroon 5 - Memories
+1     Port Avenue - Панк
+1     Port Avenue - Памятник ревности
+1     SAINt JHN - Roses
+1     Ногу свело! - Я шагаю по Москве
+1     Aurelio Voltaire - When You're Evil
+1     Aurelio Voltaire, Alissa White-Gluz - Leaves in the Stream
+1     LXST CXNTURY, Kingpin Skinny Pimp - Odium
+1     МУККА - Втыкать в потолок
+1     МУККА - Медленно
+1     Dear Sherlock - Mrs Dalloway
+1     хмыров - В совершенно пустой квартире
+1     Anacondaz, Макс Гирко - Иди за второй
+1     TERNOVOY - Бессонница
+1     Соседи Стерпят - Влюбилась (руки на шее)
+1     SLAVA MARLOW - Отправьте это Моргенштерну
+1     DEEP-EX-SENSE - Ветер перемен
+1     saypink!, Repentov - Мосты
+1     saypink! - Девочкам
+1     saypink! - На слезах танцуй
+1     пачкасигарет - Кролик
+1     Port Avenue - Антибиотик
+1     МУККА - Не та
+1     ЧайФ - Все девушки Бонда
+1     DenDerty - Я хочу чтоб ты стреляла по своим
+1     Ундервуд - Разведка с мудаками
+1     найтивыход - Луна
+1     КОСМОНАВТОВ НЕТ - КРИВОРУКИЕ
+1     КОСМОНАВТОВ НЕТ, Папин Олимпос - НЕ ВЫВОЖУ
+1     КОСМОНАВТОВ НЕТ - ТОКОМ
+1     АнимациЯ - Красиво
+1     Вячеслав Бутусов, Орден Славы - Идиот
+1     Твин Пикс - По шанхайским подвалам
+1     Нервы - Так, как надо
+1     Daniel Spaleniak - Night
+1     Алла Пугачёва - Айсберг
+1     Noize MC - Коррозия хип-хопа
+1     David Bowie - Beauty and the Beast
+1     Barns Courtney - Kicks
+1     Tommy Cash - Winaloto
+1     Nick Waterhouse, Ofenbach - Katchi (Ofenbach vs. Nick Waterhouse)
+1     Anti-Flag - American Attraction
+1     Мимо Вселенной - Клуб разбитых сердец
+1     IAMX - The Negative Sex
+1     Hollywood Undead - California Dreaming
 1     Brennan Savage - Look at Me Now
+1     Billie Eilish - COPYCAT
 1     СтимфониЯ - Отражение
+1     Аида Ведищева - Колыбельная медведицы
 1     Radiohead - Paranoid Android
 1     Mushmellow - Toxic
 1     ЖЩ - Обратно
@@ -2006,19 +2166,20 @@
 1     Нервы - Ты бы охуела
 1     Muse - Dig Down
 1     Fall Out Boy - Young And Menace
-1     Gorillaz, Kali Uchis - She's My Collar
-1     Машина времени - Скачки
-1     Машина времени - Костёр
-1     Hippie Sabotage - Devil Eyes
-1     Charlie Puth - Attention
-1     Ennio Morricone - La Resa Dei Conti
-1     Gasmac Gilmore - Amazing
-1     Лев Барашков, Лев Полосин, Борис Кузнецов, Инструментальный ансамбль «Мелодия», Вениамин Ефимович Баснер - На безымянной высоте
-1     Cheshires - Ликантропия
-1     Billie Eilish - COPYCAT
-1     Hollywood Undead - California Dreaming
+1     Rafferty - Mausoleum
+1     Unit - Порвётся небо
+1     Daniel Spaleniak - Liar's Blues
+1     Theory Of A Deadman - Straight Jacket
+1     playingtheangel - Карнавальный дракон
+1     КИНО - Легенда
+1     КИНО - Место для шага вперёд
+1     КИНО - Мама-анархия
+1     КИНО - Ночь
+1     КИНО - Завтpа война
+1     КИНО - Мама, мы все тяжело больны
+1     КИНО - Группа крови
 1     playingtheangel - Каспер 2
-1     IAMX - The Negative Sex
+1     playingtheangel, pyrokinesis - Дом на болоте
 1     playingtheangel - Фантомная боль
 1     playingtheangel, STED.D - Лобстеры
 1     playingtheangel - Лабиринт
@@ -2030,20 +2191,24 @@
 1     Григорий Лепс - Терминатор
 1     Metallica - Welcome Home (Sanitarium)
 1     The Meto - Нас здесь нет
-1     Aviators - Neon Sonata
+1     Егор Летов - Отряд не заметил потери бойца
 1     ЕГОР НАТС, Mental affection - Соврал
-1     Theory Of A Deadman - Straight Jacket
-1     Noize MC - Коррозия хип-хопа
-1     David Bowie - Beauty and the Beast
-1     Barns Courtney - Kicks
-1     Tommy Cash - Winaloto
-1     Nick Waterhouse, Ofenbach - Katchi (Ofenbach vs. Nick Waterhouse)
-1     Anti-Flag - American Attraction
-1     Мимо Вселенной - Клуб разбитых сердец
-1     The Doors - Alabama Song (Whisky Bar)
-1     Pink Floyd - Echoes
-1     Plan B - She Said
-1     Coolio, L.V. - Gangsta's Paradise
+1     Дайте танк (!) - Иммунитет
+1     Дайте танк (!) - Искры
+1     Дайте танк (!) - Утро
+1     Gorillaz, Kali Uchis - She's My Collar
+1     Ramin Djawadi - Sweetwater
+1     Дискотека Авария - Новогодняя
+1     The Meto - Корона короля жезлов
+1     The Meto - Пока не спела смерть
+1     Alan Walker - Alone
+1     Tim Halperin - Survivor
+1     Metallica - Fade To Black
+1     Metallica - For Whom The Bell Tolls
+1     Metallica - Seek & Destroy
+1     Ofenbach - Be Mine
+1     Макс Корж - В темноте
+1     Echo & the Bunnymen - It's Alright
 1     The Handsome Family - Far from Any Road
 1     4LYN - Nostalgia
 1     Placebo - Song To Say Goodbye
@@ -2052,47 +2217,48 @@
 1     Michelle Gurevich - Russian Romance
 1     Браво - Дорога в облака
 1     David Bowie - Wild Is the Wind
-1     Агата Кристи - Алхимик
+1     Дискотека Авария - Небо
 1     Saint Motel - Move
 1     Алла Пугачёва - Этот мир
-1     Алла Пугачёва - Айсберг
-1     Алла Пугачёва - Звёздное лето
-1     Алла Пугачёва - А знаешь, всё ещё будет
-1     Алла Пугачёва - Миллион алых роз
-1     Алла Пугачёва - Позови меня с собой
-1     Агата Кристи - Трансильвания
-1     Scott McKenzie - San Francisco
-1     Максим Леонидов - Видение
-1     Imagine Dragons, Wiz Khalifa, Lil Wayne, Ty Dolla $ign, X Ambassadors, Logic - Sucker For Pain
-1     The Beatles - All You Need Is Love
-1     Макс Корж - В темноте
-1     Ofenbach - Be Mine
-1     Metallica - Seek & Destroy
-1     Bee Gees - Tragedy
+1     Валентин Стрыкало - Наше лето
+1     Приключения Электроников - Неуловимые мстители
+1     Вахбет Абедов - Изабелла
+1     Plan B - She Said
+1     Машина времени - Скачки
+1     Машина времени - Костёр
+1     Hippie Sabotage - Devil Eyes
+1     Charlie Puth - Attention
+1     Ennio Morricone - La Resa Dei Conti
+1     Gasmac Gilmore - Amazing
+1     Лев Барашков, Лев Полосин, Борис Кузнецов, Инструментальный ансамбль «Мелодия», Вениамин Ефимович Баснер - На безымянной высоте
+1     Cheshires - Ликантропия
+1     The Doors - Alabama Song (Whisky Bar)
+1     Pink Floyd - Echoes
+1     Coolio, L.V. - Gangsta's Paradise
+1     СерьГа - А что нам надо
 1     The Meto - Икар
 1     Anacondaz - Ненавижу
+1     КОПЕНGАGЕН - Утопия
 1     The Rasmus - No Fear
 1     Slash, Myles Kennedy And The Conspirators - Anastasia
-1     Sono - Twist in My Sobriety
 1     Павел Кашин - Музыка
 1     Игорь Куприянов - На моей земле
 1     Rock Mafia - The Big Bang
 1     ШАРЫ - Колыбельные Брайана Молко
-1     СерьГа - А что нам надо
-1     Metallica - For Whom The Bell Tolls
-1     Вахбет Абедов - Изабелла
-1     Приключения Электроников - Неуловимые мстители
-1     Валентин Стрыкало - Наше лето
-1     Ramin Djawadi - Sweetwater
-1     The Meto - Корона короля жезлов
-1     The Meto - Пока не спела смерть
-1     Alan Walker - Alone
-1     Tim Halperin - Survivor
-1     Metallica - Fade To Black
-1     playingtheangel, pyrokinesis - Дом на болоте
-1     КИНО - Группа крови
-1     ЗАВТРА БРОШУ - ВКУС ГРУСТИ
+1     Bee Gees - Tragedy
+1     playingtheangel - Бурлеск шоу
+1     playingtheangel - Текила
+1     playingtheangel - Бриолин
+1     Bebe Rexha - Self Control
+1     Poor Mans Poison - C'mon Down
+1     Poor Mans Poison - Devils Price
+1     БАНД'ЭРОС - Коламбия Пикчерз не представляет
+1     20TOKENS - Сломан
+1     20TOKENS - Осколки
+1     David Guetta, J. Balvin, Bebe Rexha - Say My Name
+1     SQWOZ BAB - Чистые пруды
 1     Muse - The Dark Side
+1     Мэйти - Ева 18
 1     DEEP-EX-SENSE - Сказка о потерянном времени
 1     Ofenbach, Benjamin Ingrosso - Paradise
 1     ssshhhiiittt! - Не жалею
@@ -2100,26 +2266,29 @@
 1     Звери - Моё настроение
 1     Кровавый Риф - Ассоль
 1     Muse - Something Human
+1     Элизиум - Ад наш!
 1     МОЛОДОСТЬ ВНУТРИ - Водопад
 1     Shivaree - Little Black Mess
+1     Elvis Presley - Can't Help Falling In Love
 1     Буерак - Страсть к курению
 1     ЕГОР НАТС - Девочка ЛСД
 1     playingtheangel - Заклинатель змей
-1     Bebe Rexha - Self Control
-1     Kygo, Imagine Dragons - Born To Be Yours
-1     Bebe Rexha - I'm a Mess
-1     PHARAOH - На Луне
-1     Panic! At The Disco - High Hopes
-1     OneRepublic, Logic - Start Again
-1     Лолита - На Титанике
-1     Jeanette - Manchester y Liverpool
-1     Bondage Fairies - 1-0
-1     Мэйти - Ева 18
-1     SQWOZ BAB - Чистые пруды
-1     КИНО - Мама, мы все тяжело больны
-1     David Guetta, J. Balvin, Bebe Rexha - Say My Name
+1     ДЕТИ RAVE - Турбо пушка
+1     Мы - 2
+1     Мы - Остров
 1     ЗАВТРА БРОШУ - РАДИОКОМА
+1     Franz Ferdinand - Jacqueline
+1     Markul - Миражи
+1     Markul - Компас
+1     Arctic Monkeys - Brianstorm
+1     Arctic Monkeys - I Wanna Be Yours
+1     Queen - We Are The Champions
+1     Queen - Ay-Oh
+1     Queen - I Want To Break Free
+1     aikko - Нечего сказать
+1     ЗАВТРА БРОШУ - ВКУС ГРУСТИ
 1     twenty one pilots - Chlorine
+1     playingtheangel - YAKUZA
 1     PTASHKIN - Вода ледяная
 1     Nautilus Pompilius - Прогулки по воде
 1     saypink! - Самый пьяный ремикс
@@ -2130,19 +2299,21 @@
 1     playingtheangel, STED.D - Беззвучная дискотека
 1     playingtheangel - РОКОВАЯ ЖЕНЩИНА
 1     playingtheangel - ЗАКЛИНАТЕЛЬ ЗМЕЙ
-1     playingtheangel - YAKUZA
-1     Мы - Остров
-1     Мы - 2
-1     ДЕТИ RAVE - Турбо пушка
-1     Poor Mans Poison - C'mon Down
-1     Poor Mans Poison - Devils Price
-1     БАНД'ЭРОС - Коламбия Пикчерз не представляет
-1     20TOKENS - Сломан
-1     20TOKENS - Осколки
-1     этажность - Гори всё огнём
-1     Kidd - Падаем вниз
-1     КИНО - Раньше в твоих глазах...
-1     КИНО - Мои друзья...
+1     Сети - Smile
+1     Kygo, Imagine Dragons - Born To Be Yours
+1     playingtheangel, STED.D - Огонь
+1     Bebe Rexha - I'm a Mess
+1     Noize MC - Общага
+1     Колизей - Все возможно
+1     Коrsика - Взрывая тишину
+1     Dark Moor - Swan Lake
+1     The Beatles - Eleanor Rigby
+1     XXXTentacion - before I close my eyes
+1     XXXTentacion - NUMB
+1     Vanilla Sky - L'italiano
+1     Владимир Федосеев, State Academic Large Symphony Orchestra, Георгий Васильевич Свиридов - The Snowstorm: VIII. Echoes of waltz
+1     Robert DeLong, K.Flay - Favorite Color Is Blue
+1     Сплин - Весь этот бред
 1     Del Shannon - Runaway
 1     Sune Rose Wagner - More Human Than Human
 1     Poets Of The Fall - False Kings
@@ -2150,42 +2321,35 @@
 1     Мастер - Мастер
 1     The Faim - Saints of the Sinners
 1     Мастер - Палачи
+1     Blacksax Band - Владимирский централ
 1     playingtheangel, pyrokinesis - Стерильные чувства
 1     playingtheangel - Загораем под луной
 1     playingtheangel - Кислотный дождь
 1     playingtheangel - Space Cake
-1     playingtheangel, STED.D - Огонь
-1     playingtheangel - Бриолин
-1     playingtheangel - Текила
-1     playingtheangel - Бурлеск шоу
-1     playingtheangel - Карнавальный дракон
-1     КИНО - Легенда
-1     КИНО - Мама-анархия
-1     КИНО - Ночь
-1     КИНО - Завтpа война
-1     КИНО - Сосны на морском берегу
-1     Сплин - Весь этот бред
-1     Robert DeLong, K.Flay - Favorite Color Is Blue
-1     Владимир Федосеев, State Academic Large Symphony Orchestra, Георгий Васильевич Свиридов - The Snowstorm: VIII. Echoes of waltz
-1     ШАРЫ - Завтра Понедельник
+1     Noize MC - Кантемировская
+1     ЭТО ТьМА - Антисеренада
+1     playingtheangel - Живопись и вино
+1     КИНО - Мои друзья...
+1     PHARAOH - На Луне
+1     Panic! At The Disco - High Hopes
+1     OneRepublic, Logic - Start Again
+1     Лолита - На Титанике
+1     Jeanette - Manchester y Liverpool
+1     Bondage Fairies - 1-0
+1     этажность - Гори всё огнём
+1     Kidd - Падаем вниз
+1     КИНО - Малыш 
+1     КИНО - Раньше в твоих глазах...
 1     КИНО - Я хочу быть кочегаром
+1     ШАРЫ - Рискуя Не Умереть Молодым
 1     Кукрыниксы - Не беда
 1     GONE.Fludd - КУБИК ЛЬДА
 1     FIZICA - Моя любовь просто космос
 1     FIZICA - Цветной город
 1     FIZICA - Верь, что я вернусь
 1     ЭТО ТьМА - Англичанка
+1     Ногу свело! - В темноте
 1     Adelitas Way - Still Hungry
 1     ШАРЫ - Запертые
-1     ШАРЫ - Рискуя Не Умереть Молодым
-1     Vanilla Sky - L'italiano
-1     playingtheangel - Живопись и вино
-1     ЭТО ТьМА - Антисеренада
-1     Noize MC - Кантемировская
-1     Noize MC - Общага
-1     Колизей - Все возможно
-1     Коrsика - Взрывая тишину
-1     The Beatles - Eleanor Rigby
-1     XXXTentacion - before I close my eyes
-1     XXXTentacion - NUMB
-1     Markul - Конечная станция
+1     ШАРЫ - Завтра Понедельник
+1     MORGENSHTERN - 10 секунд тишины перед последним треком (skit)
